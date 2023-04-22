@@ -1,0 +1,346 @@
+year,industry,femaleWorkers,maleWorkers
+2022,Accommodation & Food Services,71800,54800
+2021,Accommodation & Food Services,70000,55200
+2020,Accommodation & Food Services,73000,55900
+2019,Accommodation & Food Services,73600,58200
+2018,Accommodation & Food Services,75000,59400
+2017,Accommodation & Food Services,73900,60500
+2016,Accommodation & Food Services,78100,60100
+2015,Accommodation & Food Services,78000,61100
+2014,Accommodation & Food Services,76400,60700
+2013,Accommodation & Food Services,75200,60000
+2012,Accommodation & Food Services,71100,58200
+2011,Accommodation & Food Services,74100,61100
+2010,Accommodation & Food Services,68700,60200
+2009,Accommodation & Food Services,67300,57500
+2008,Accommodation & Food Services,66400,53500
+2007,Accommodation & Food Services,63500,59600
+2006,Accommodation & Food Services,66900,61900
+2005,Accommodation & Food Services,53700,49500
+2004,Accommodation & Food Services,55600,52300
+2003,Accommodation & Food Services,54800,53000
+2002,Accommodation & Food Services,52100,51400
+2001,Accommodation & Food Services,54900,50100
+2000,Accommodation & Food Services,45500,47100
+2022,Administrative & Support Services,49900,70400
+2021,Administrative & Support Services,50100,69900
+2020,Administrative & Support Services,53000,75300
+2019,Administrative & Support Services,53200,66800
+2018,Administrative & Support Services,49500,68500
+2017,Administrative & Support Services,51800,62900
+2016,Administrative & Support Services,49400,66500
+2015,Administrative & Support Services,48400,60500
+2014,Administrative & Support Services,42400,59600
+2013,Administrative & Support Services,43500,55700
+2012,Administrative & Support Services,44600,57500
+2011,Administrative & Support Services,43100,54300
+2010,Administrative & Support Services,44600,55500
+2009,Administrative & Support Services,40800,48000
+2008,Administrative & Support Services,38400,48800
+2007,Administrative & Support Services,37800,50300
+2006,Administrative & Support Services,33800,46700
+2005,Administrative & Support Services,30000,43600
+2004,Administrative & Support Services,28100,40700
+2003,Administrative & Support Services,25700,39100
+2002,Administrative & Support Services,25100,37100
+2001,Administrative & Support Services,23800,33500
+2000,Administrative & Support Services,20700,33100
+2022,"Arts, Entertainment & Recreation",18600,15900
+2021,"Arts, Entertainment & Recreation",16100,16800
+2020,"Arts, Entertainment & Recreation",17300,17100
+2019,"Arts, Entertainment & Recreation",18500,15700
+2018,"Arts, Entertainment & Recreation",18400,19300
+2017,"Arts, Entertainment & Recreation",17900,17300
+2016,"Arts, Entertainment & Recreation",20600,19900
+2015,"Arts, Entertainment & Recreation",18600,18300
+2014,"Arts, Entertainment & Recreation",18300,16800
+2013,"Arts, Entertainment & Recreation",17300,19900
+2012,"Arts, Entertainment & Recreation",18300,20700
+2011,"Arts, Entertainment & Recreation",15700,18000
+2010,"Arts, Entertainment & Recreation",15800,17100
+2009,"Arts, Entertainment & Recreation",10200,12400
+2008,"Arts, Entertainment & Recreation",8500,12600
+2007,"Arts, Entertainment & Recreation",9900,12200
+2006,"Arts, Entertainment & Recreation",8500,11200
+2005,"Arts, Entertainment & Recreation",8600,9800
+2004,"Arts, Entertainment & Recreation",7200,6900
+2003,"Arts, Entertainment & Recreation",6600,7800
+2002,"Arts, Entertainment & Recreation",6800,8600
+2001,"Arts, Entertainment & Recreation",6400,7100
+2000,"Arts, Entertainment & Recreation",8700,10700
+2022,Construction,29000,68700
+2021,Construction,29800,68700
+2020,Construction,28300,68900
+2019,Construction,27000,71000
+2018,Construction,27800,76700
+2017,Construction,28600,72100
+2016,Construction,27700,73500
+2015,Construction,30000,80600
+2014,Construction,25200,73000
+2013,Construction,24000,77900
+2012,Construction,23900,80600
+2011,Construction,22200,77400
+2010,Construction,23200,80800
+2009,Construction,26100,87800
+2008,Construction,20600,84900
+2007,Construction,18600,82100
+2006,Construction,17200,77800
+2005,Construction,15200,70300
+2004,Construction,15000,77600
+2003,Construction,17600,80100
+2002,Construction,14900,81600
+2001,Construction,17000,83100
+2000,Construction,14800,77500
+2022,Financial & Insurance Services,118300,117500
+2021,Financial & Insurance Services,114400,110800
+2020,Financial & Insurance Services,107800,100100
+2019,Financial & Insurance Services,105500,103900
+2018,Financial & Insurance Services,101600,94500
+2017,Financial & Insurance Services,98800,90800
+2016,Financial & Insurance Services,100100,90600
+2015,Financial & Insurance Services,88700,78500
+2014,Financial & Insurance Services,84700,80900
+2013,Financial & Insurance Services,79400,68500
+2012,Financial & Insurance Services,79700,70800
+2011,Financial & Insurance Services,79300,66200
+2010,Financial & Insurance Services,68800,57100
+2009,Financial & Insurance Services,68000,53900
+2008,Financial & Insurance Services,70800,52700
+2007,Financial & Insurance Services,63200,46500
+2006,Financial & Insurance Services,61000,45400
+2005,Financial & Insurance Services,58600,44800
+2004,Financial & Insurance Services,53900,37900
+2003,Financial & Insurance Services,53200,35400
+2002,Financial & Insurance Services,54000,36800
+2001,Financial & Insurance Services,52500,36600
+2000,Financial & Insurance Services,53700,37600
+2022,Health & Social Services,121600,38700
+2021,Health & Social Services,116100,36900
+2020,Health & Social Services,108100,31800
+2019,Health & Social Services,105200,31100
+2018,Health & Social Services,97200,28800
+2017,Health & Social Services,96400,28400
+2016,Health & Social Services,90300,25600
+2015,Health & Social Services,81800,23900
+2014,Health & Social Services,82900,24800
+2013,Health & Social Services,72100,22700
+2012,Health & Social Services,70700,20000
+2011,Health & Social Services,67700,19800
+2010,Health & Social Services,62300,21000
+2009,Health & Social Services,57900,19100
+2008,Health & Social Services,57200,17100
+2007,Health & Social Services,52800,17100
+2006,Health & Social Services,54200,16600
+2005,Health & Social Services,46400,13700
+2004,Health & Social Services,47700,14100
+2003,Health & Social Services,42100,13500
+2002,Health & Social Services,40200,12900
+2001,Health & Social Services,40900,12800
+2000,Health & Social Services,35300,11000
+2022,Information & Communications,53500,79300
+2021,Information & Communications,49900,70500
+2020,Information & Communications,45000,66400
+2019,Information & Communications,42500,60100
+2018,Information & Communications,38900,55100
+2017,Information & Communications,34600,56700
+2016,Information & Communications,34500,52500
+2015,Information & Communications,34400,51600
+2014,Information & Communications,34600,53800
+2013,Information & Communications,36600,55700
+2012,Information & Communications,31900,54600
+2011,Information & Communications,34000,51900
+2010,Information & Communications,37900,62600
+2009,Information & Communications,38200,56100
+2008,Information & Communications,34900,52100
+2007,Information & Communications,35600,52100
+2006,Information & Communications,29900,44900
+2005,Information & Communications,26900,37100
+2004,Information & Communications,27700,39800
+2003,Information & Communications,28200,40000
+2002,Information & Communications,27000,38500
+2001,Information & Communications,32800,42300
+2000,Information & Communications,24300,30800
+2022,Manufacturing,83200,141700
+2021,Manufacturing,80300,131800
+2020,Manufacturing,77900,135100
+2019,Manufacturing,77600,136900
+2018,Manufacturing,82900,144800
+2017,Manufacturing,78200,145200
+2016,Manufacturing,81600,145600
+2015,Manufacturing,85000,153500
+2014,Manufacturing,86500,162800
+2013,Manufacturing,104400,175600
+2012,Manufacturing,102900,185400
+2011,Manufacturing,101300,191100
+2010,Manufacturing,105200,186200
+2009,Manufacturing,106900,186700
+2008,Manufacturing,112400,199500
+2007,Manufacturing,115100,189500
+2006,Manufacturing,110400,191300
+2005,Manufacturing,104200,169700
+2004,Manufacturing,114200,182400
+2003,Manufacturing,114700,187800
+2002,Manufacturing,115000,183300
+2001,Manufacturing,116400,190500
+2000,Manufacturing,113100,175700
+2022,"Other Community, Social & Personal Services",39900,29900
+2021,"Other Community, Social & Personal Services",42100,31400
+2020,"Other Community, Social & Personal Services",39700,25800
+2019,"Other Community, Social & Personal Services",36500,27600
+2018,"Other Community, Social & Personal Services",39400,27700
+2017,"Other Community, Social & Personal Services",38200,27300
+2016,"Other Community, Social & Personal Services",37600,27300
+2015,"Other Community, Social & Personal Services",38600,28500
+2014,"Other Community, Social & Personal Services",38800,27500
+2013,"Other Community, Social & Personal Services",37800,31400
+2012,"Other Community, Social & Personal Services",38000,27300
+2011,"Other Community, Social & Personal Services",36800,28900
+2010,"Other Community, Social & Personal Services",37100,28700
+2009,"Other Community, Social & Personal Services",35500,33200
+2008,"Other Community, Social & Personal Services",34300,33700
+2007,"Other Community, Social & Personal Services",33100,30300
+2006,"Other Community, Social & Personal Services",31600,29700
+2005,"Other Community, Social & Personal Services",26500,28700
+2004,"Other Community, Social & Personal Services",25100,26900
+2003,"Other Community, Social & Personal Services",24700,26700
+2002,"Other Community, Social & Personal Services",23300,29200
+2001,"Other Community, Social & Personal Services",23300,27100
+2000,"Other Community, Social & Personal Services",19500,26400
+2022,Others,7200,14600
+2021,Others,7100,16300
+2020,Others,5700,15500
+2019,Others,7900,15600
+2018,Others,6700,14900
+2017,Others,6900,14900
+2016,Others,5300,14800
+2015,Others,6500,16700
+2014,Others,7100,17700
+2013,Others,7700,19100
+2012,Others,6800,19600
+2011,Others,5800,17600
+2010,Others,9400,28100
+2009,Others,5100,15600
+2008,Others,5900,16800
+2007,Others,4000,16500
+2006,Others,6000,16400
+2005,Others,4300,15100
+2004,Others,4500,16700
+2003,Others,4900,15400
+2002,Others,3700,15600
+2001,Others,4500,16200
+2000,Others,2700,10400
+2022,Professional Services,93400,104300
+2021,Professional Services,95600,100900
+2020,Professional Services,84800,96600
+2019,Professional Services,87900,93600
+2018,Professional Services,82300,92100
+2017,Professional Services,82000,88800
+2016,Professional Services,78500,84500
+2015,Professional Services,79600,87000
+2014,Professional Services,72500,80400
+2013,Professional Services,67400,75400
+2012,Professional Services,64500,70400
+2011,Professional Services,60700,64100
+2010,Professional Services,54100,58400
+2009,Professional Services,50100,59500
+2008,Professional Services,53100,56400
+2007,Professional Services,47600,49600
+2006,Professional Services,48600,50500
+2005,Professional Services,44700,49200
+2004,Professional Services,34200,37100
+2003,Professional Services,33200,32800
+2002,Professional Services,32000,29700
+2001,Professional Services,32600,28500
+2000,Professional Services,34400,36400
+2022,Public Administration & Education,145000,164600
+2021,Public Administration & Education,148900,166800
+2020,Public Administration & Education,138000,155900
+2019,Public Administration & Education,143900,160400
+2018,Public Administration & Education,136600,160200
+2017,Public Administration & Education,133100,160600
+2016,Public Administration & Education,133400,161500
+2015,Public Administration & Education,133200,157500
+2014,Public Administration & Education,129200,156000
+2013,Public Administration & Education,129200,155600
+2012,Public Administration & Education,125000,150200
+2011,Public Administration & Education,121100,145200
+2010,Public Administration & Education,124100,142700
+2009,Public Administration & Education,105200,131200
+2008,Public Administration & Education,101300,127200
+2007,Public Administration & Education,95000,125500
+2006,Public Administration & Education,93800,129600
+2005,Public Administration & Education,83100,114200
+2004,Public Administration & Education,82800,129400
+2003,Public Administration & Education,86300,130100
+2002,Public Administration & Education,79400,119600
+2001,Public Administration & Education,73800,115400
+2000,Public Administration & Education,66500,104900
+2022,Real Estate Services,30200,29500
+2021,Real Estate Services,26800,24200
+2020,Real Estate Services,25900,23900
+2019,Real Estate Services,24800,23900
+2018,Real Estate Services,26200,27800
+2017,Real Estate Services,29500,28100
+2016,Real Estate Services,24900,28600
+2015,Real Estate Services,28000,27400
+2014,Real Estate Services,27900,27800
+2013,Real Estate Services,24200,25100
+2012,Real Estate Services,25300,26600
+2011,Real Estate Services,23800,25100
+2010,Real Estate Services,20400,19900
+2009,Real Estate Services,22000,23100
+2008,Real Estate Services,19700,21100
+2007,Real Estate Services,18000,20500
+2006,Real Estate Services,19100,18600
+2005,Real Estate Services,15900,19700
+2004,Real Estate Services,15300,19400
+2003,Real Estate Services,16000,18500
+2002,Real Estate Services,15800,18500
+2001,Real Estate Services,16400,19400
+2000,Real Estate Services,17000,21400
+2022,Transportation & Storage,54900,152500
+2021,Transportation & Storage,49500,151100
+2020,Transportation & Storage,52600,162200
+2019,Transportation & Storage,49500,156000
+2018,Transportation & Storage,48100,151000
+2017,Transportation & Storage,42900,152900
+2016,Transportation & Storage,45200,143200
+2015,Transportation & Storage,46200,141500
+2014,Transportation & Storage,45900,143000
+2013,Transportation & Storage,47900,144700
+2012,Transportation & Storage,47200,142300
+2011,Transportation & Storage,46300,145700
+2010,Transportation & Storage,45400,145900
+2009,Transportation & Storage,40500,139400
+2008,Transportation & Storage,44800,137600
+2007,Transportation & Storage,40300,139600
+2006,Transportation & Storage,39200,134800
+2005,Transportation & Storage,35800,124100
+2004,Transportation & Storage,39900,124300
+2003,Transportation & Storage,37600,125900
+2002,Transportation & Storage,36600,129000
+2001,Transportation & Storage,40900,130000
+2000,Transportation & Storage,31400,118200
+2022,Wholesale & Retail Trade,177700,174100
+2021,Wholesale & Retail Trade,169500,169100
+2020,Wholesale & Retail Trade,167500,167600
+2019,Wholesale & Retail Trade,174300,181700
+2018,Wholesale & Retail Trade,176000,176500
+2017,Wholesale & Retail Trade,173200,183000
+2016,Wholesale & Retail Trade,179700,184400
+2015,Wholesale & Retail Trade,178900,185100
+2014,Wholesale & Retail Trade,170000,176200
+2013,Wholesale & Retail Trade,147200,155000
+2012,Wholesale & Retail Trade,152500,153800
+2011,Wholesale & Retail Trade,148300,152200
+2010,Wholesale & Retail Trade,139300,142400
+2009,Wholesale & Retail Trade,129500,142900
+2008,Wholesale & Retail Trade,130000,139600
+2007,Wholesale & Retail Trade,130100,146900
+2006,Wholesale & Retail Trade,140000,161100
+2005,Wholesale & Retail Trade,133700,170000
+2004,Wholesale & Retail Trade,120100,155300
+2003,Wholesale & Retail Trade,111100,142600
+2002,Wholesale & Retail Trade,110300,146100
+2001,Wholesale & Retail Trade,107900,145900
+2000,Wholesale & Retail Trade,105500,148100
