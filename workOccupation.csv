@@ -1,0 +1,379 @@
+year,occupation,numberOfWorkers,sex
+2021,Associate Professionals & Technicians,230700,female
+2020,Associate Professionals & Technicians,226500,female
+2019,Associate Professionals & Technicians,224700,female
+2018,Associate Professionals & Technicians,222500,female
+2017,Associate Professionals & Technicians,211400,female
+2016,Associate Professionals & Technicians,208200,female
+2015,Associate Professionals & Technicians,193700,female
+2014,Associate Professionals & Technicians,188900,female
+2013,Associate Professionals & Technicians,164300,female
+2012,Associate Professionals & Technicians,155800,female
+2011,Associate Professionals & Technicians,154500,female
+2010,Associate Professionals & Technicians,136300,female
+2009,Associate Professionals & Technicians,151500,female
+2008,Associate Professionals & Technicians,146300,female
+2007,Associate Professionals & Technicians,137700,female
+2005,Associate Professionals & Technicians,120200,female
+2004,Associate Professionals & Technicians,116500,female
+2003,Associate Professionals & Technicians,110500,female
+2002,Associate Professionals & Technicians,104700,female
+2001,Associate Professionals & Technicians,105600,female
+2000,Associate Professionals & Technicians,100400,female
+2021,Associate Professionals & Technicians,235100,male
+2020,Associate Professionals & Technicians,231700,male
+2019,Associate Professionals & Technicians,243200,male
+2018,Associate Professionals & Technicians,242500,male
+2017,Associate Professionals & Technicians,224800,male
+2016,Associate Professionals & Technicians,229900,male
+2015,Associate Professionals & Technicians,214600,male
+2014,Associate Professionals & Technicians,202700,male
+2013,Associate Professionals & Technicians,195100,male
+2012,Associate Professionals & Technicians,184600,male
+2011,Associate Professionals & Technicians,182600,male
+2010,Associate Professionals & Technicians,167100,male
+2009,Associate Professionals & Technicians,158200,male
+2008,Associate Professionals & Technicians,161500,male
+2007,Associate Professionals & Technicians,151800,male
+2005,Associate Professionals & Technicians,135500,male
+2004,Associate Professionals & Technicians,143300,male
+2003,Associate Professionals & Technicians,130300,male
+2002,Associate Professionals & Technicians,129700,male
+2001,Associate Professionals & Technicians,132600,male
+2000,Associate Professionals & Technicians,134100,male
+2021,"Cleaners, Labourers & Related Workers",84400,female
+2020,"Cleaners, Labourers & Related Workers",84200,female
+2019,"Cleaners, Labourers & Related Workers",85100,female
+2018,"Cleaners, Labourers & Related Workers",90200,female
+2017,"Cleaners, Labourers & Related Workers",92100,female
+2016,"Cleaners, Labourers & Related Workers",95100,female
+2015,"Cleaners, Labourers & Related Workers",94700,female
+2014,"Cleaners, Labourers & Related Workers",93800,female
+2013,"Cleaners, Labourers & Related Workers",82900,female
+2012,"Cleaners, Labourers & Related Workers",80600,female
+2011,"Cleaners, Labourers & Related Workers",82800,female
+2010,"Cleaners, Labourers & Related Workers",78900,female
+2009,"Cleaners, Labourers & Related Workers",76100,female
+2008,"Cleaners, Labourers & Related Workers",74900,female
+2007,"Cleaners, Labourers & Related Workers",73000,female
+2005,"Cleaners, Labourers & Related Workers",48000,female
+2004,"Cleaners, Labourers & Related Workers",58800,female
+2003,"Cleaners, Labourers & Related Workers",58300,female
+2002,"Cleaners, Labourers & Related Workers",54700,female
+2001,"Cleaners, Labourers & Related Workers",55900,female
+2000,"Cleaners, Labourers & Related Workers",47200,female
+2021,"Cleaners, Labourers & Related Workers",67100,male
+2020,"Cleaners, Labourers & Related Workers",65300,male
+2019,"Cleaners, Labourers & Related Workers",64400,male
+2018,"Cleaners, Labourers & Related Workers",66200,male
+2017,"Cleaners, Labourers & Related Workers",68400,male
+2016,"Cleaners, Labourers & Related Workers",65600,male
+2015,"Cleaners, Labourers & Related Workers",65600,male
+2014,"Cleaners, Labourers & Related Workers",72100,male
+2013,"Cleaners, Labourers & Related Workers",67300,male
+2012,"Cleaners, Labourers & Related Workers",64700,male
+2011,"Cleaners, Labourers & Related Workers",62900,male
+2010,"Cleaners, Labourers & Related Workers",66600,male
+2009,"Cleaners, Labourers & Related Workers",64900,male
+2008,"Cleaners, Labourers & Related Workers",63700,male
+2007,"Cleaners, Labourers & Related Workers",70600,male
+2005,"Cleaners, Labourers & Related Workers",51300,male
+2004,"Cleaners, Labourers & Related Workers",65100,male
+2003,"Cleaners, Labourers & Related Workers",65600,male
+2002,"Cleaners, Labourers & Related Workers",60100,male
+2001,"Cleaners, Labourers & Related Workers",58600,male
+2000,"Cleaners, Labourers & Related Workers",56600,male
+2021,Clerical Support Workers,171400,female
+2020,Clerical Support Workers,163900,female
+2019,Clerical Support Workers,180900,female
+2018,Clerical Support Workers,181100,female
+2017,Clerical Support Workers,189500,female
+2016,Clerical Support Workers,184900,female
+2015,Clerical Support Workers,204400,female
+2014,Clerical Support Workers,202000,female
+2013,Clerical Support Workers,206600,female
+2012,Clerical Support Workers,204300,female
+2011,Clerical Support Workers,192100,female
+2010,Clerical Support Workers,190700,female
+2009,Clerical Support Workers,179900,female
+2008,Clerical Support Workers,179300,female
+2007,Clerical Support Workers,176400,female
+2005,Clerical Support Workers,165500,female
+2004,Clerical Support Workers,171600,female
+2003,Clerical Support Workers,168200,female
+2002,Clerical Support Workers,168100,female
+2001,Clerical Support Workers,171000,female
+2000,Clerical Support Workers,155700,female
+2021,Clerical Support Workers,52000,male
+2020,Clerical Support Workers,51700,male
+2019,Clerical Support Workers,56300,male
+2018,Clerical Support Workers,59900,male
+2017,Clerical Support Workers,58400,male
+2016,Clerical Support Workers,60000,male
+2015,Clerical Support Workers,63300,male
+2014,Clerical Support Workers,66400,male
+2013,Clerical Support Workers,65100,male
+2012,Clerical Support Workers,61400,male
+2011,Clerical Support Workers,57200,male
+2010,Clerical Support Workers,52900,male
+2009,Clerical Support Workers,56600,male
+2008,Clerical Support Workers,57700,male
+2007,Clerical Support Workers,54800,male
+2005,Clerical Support Workers,55300,male
+2004,Clerical Support Workers,48800,male
+2003,Clerical Support Workers,50900,male
+2002,Clerical Support Workers,49800,male
+2001,Clerical Support Workers,50900,male
+2000,Clerical Support Workers,49200,male
+2021,Craftsmen & Related Trade Workers,9800,female
+2020,Craftsmen & Related Trade Workers,8700,female
+2019,Craftsmen & Related Trade Workers,8900,female
+2018,Craftsmen & Related Trade Workers,9100,female
+2017,Craftsmen & Related Trade Workers,8900,female
+2016,Craftsmen & Related Trade Workers,9400,female
+2015,Craftsmen & Related Trade Workers,9700,female
+2014,Craftsmen & Related Trade Workers,6900,female
+2013,Craftsmen & Related Trade Workers,7300,female
+2012,Craftsmen & Related Trade Workers,8800,female
+2011,Craftsmen & Related Trade Workers,7400,female
+2010,Craftsmen & Related Trade Workers,8500,female
+2009,Craftsmen & Related Trade Workers,9300,female
+2008,Craftsmen & Related Trade Workers,9500,female
+2007,Craftsmen & Related Trade Workers,9700,female
+2005,Craftsmen & Related Trade Workers,9100,female
+2004,Craftsmen & Related Trade Workers,7900,female
+2003,Craftsmen & Related Trade Workers,8300,female
+2002,Craftsmen & Related Trade Workers,8900,female
+2001,Craftsmen & Related Trade Workers,8100,female
+2000,Craftsmen & Related Trade Workers,9400,female
+2021,Craftsmen & Related Trade Workers,48100,male
+2020,Craftsmen & Related Trade Workers,53700,male
+2019,Craftsmen & Related Trade Workers,58800,male
+2018,Craftsmen & Related Trade Workers,60900,male
+2017,Craftsmen & Related Trade Workers,67100,male
+2016,Craftsmen & Related Trade Workers,69800,male
+2015,Craftsmen & Related Trade Workers,74200,male
+2014,Craftsmen & Related Trade Workers,75200,male
+2013,Craftsmen & Related Trade Workers,74900,male
+2012,Craftsmen & Related Trade Workers,81700,male
+2011,Craftsmen & Related Trade Workers,82100,male
+2010,Craftsmen & Related Trade Workers,78000,male
+2009,Craftsmen & Related Trade Workers,79400,male
+2008,Craftsmen & Related Trade Workers,81300,male
+2007,Craftsmen & Related Trade Workers,85900,male
+2005,Craftsmen & Related Trade Workers,101900,male
+2004,Craftsmen & Related Trade Workers,89300,male
+2003,Craftsmen & Related Trade Workers,89700,male
+2002,Craftsmen & Related Trade Workers,96200,male
+2001,Craftsmen & Related Trade Workers,94400,male
+2000,Craftsmen & Related Trade Workers,97900,male
+2021,Managers & Administrators (Including Working Proprietors),144000,female
+2020,Managers & Administrators (Including Working Proprietors),136900,female
+2019,Managers & Administrators (Including Working Proprietors),133900,female
+2018,Managers & Administrators (Including Working Proprietors),122400,female
+2017,Managers & Administrators (Including Working Proprietors),118300,female
+2016,Managers & Administrators (Including Working Proprietors),117300,female
+2015,Managers & Administrators (Including Working Proprietors),120600,female
+2014,Managers & Administrators (Including Working Proprietors),118000,female
+2013,Managers & Administrators (Including Working Proprietors),120700,female
+2012,Managers & Administrators (Including Working Proprietors),120200,female
+2011,Managers & Administrators (Including Working Proprietors),123500,female
+2010,Managers & Administrators (Including Working Proprietors),119700,female
+2009,Managers & Administrators (Including Working Proprietors),96700,female
+2008,Managers & Administrators (Including Working Proprietors),95100,female
+2007,Managers & Administrators (Including Working Proprietors),85400,female
+2005,Managers & Administrators (Including Working Proprietors),67800,female
+2004,Managers & Administrators (Including Working Proprietors),67100,female
+2003,Managers & Administrators (Including Working Proprietors),63300,female
+2002,Managers & Administrators (Including Working Proprietors),60900,female
+2001,Managers & Administrators (Including Working Proprietors),58700,female
+2000,Managers & Administrators (Including Working Proprietors),58400,female
+2021,Managers & Administrators (Including Working Proprietors),233600,male
+2020,Managers & Administrators (Including Working Proprietors),231400,male
+2019,Managers & Administrators (Including Working Proprietors),231000,male
+2018,Managers & Administrators (Including Working Proprietors),219200,male
+2017,Managers & Administrators (Including Working Proprietors),230600,male
+2016,Managers & Administrators (Including Working Proprietors),220200,male
+2015,Managers & Administrators (Including Working Proprietors),235200,male
+2014,Managers & Administrators (Including Working Proprietors),233300,male
+2013,Managers & Administrators (Including Working Proprietors),239800,male
+2012,Managers & Administrators (Including Working Proprietors),238800,male
+2011,Managers & Administrators (Including Working Proprietors),243500,male
+2010,Managers & Administrators (Including Working Proprietors),232700,male
+2009,Managers & Administrators (Including Working Proprietors),214100,male
+2008,Managers & Administrators (Including Working Proprietors),208200,male
+2007,Managers & Administrators (Including Working Proprietors),195900,male
+2005,Managers & Administrators (Including Working Proprietors),163900,male
+2004,Managers & Administrators (Including Working Proprietors),174900,male
+2003,Managers & Administrators (Including Working Proprietors),179900,male
+2002,Managers & Administrators (Including Working Proprietors),172400,male
+2001,Managers & Administrators (Including Working Proprietors),174600,male
+2000,Managers & Administrators (Including Working Proprietors),163000,male
+2021,Others,1800,female
+2020,Others,1400,female
+2019,Others,2400,female
+2018,Others,3200,female
+2017,Others,1900,female
+2016,Others,1900,female
+2015,Others,2100,female
+2014,Others,1900,female
+2013,Others,1100,female
+2012,Others,900,female
+2011,Others,1400,female
+2010,Others,2000,female
+2009,Others,900,female
+2008,Others,1200,female
+2007,Others,1500,female
+2005,Others,2300,female
+2004,Others,1900,female
+2003,Others,1600,female
+2002,Others,1100,female
+2001,Others,1700,female
+2000,Others,2300,female
+2021,Others,54700,male
+2020,Others,59000,male
+2019,Others,62400,male
+2018,Others,66600,male
+2017,Others,67000,male
+2016,Others,69700,male
+2015,Others,67900,male
+2014,Others,68900,male
+2013,Others,67600,male
+2012,Others,67700,male
+2011,Others,68200,male
+2010,Others,66700,male
+2009,Others,62600,male
+2008,Others,62200,male
+2007,Others,61600,male
+2005,Others,53600,male
+2004,Others,69300,male
+2003,Others,68200,male
+2002,Others,60900,male
+2001,Others,63200,male
+2000,Others,51600,male
+2021,Plant & Machine Operators & Assemblers,14500,female
+2020,Plant & Machine Operators & Assemblers,14500,female
+2019,Plant & Machine Operators & Assemblers,14600,female
+2018,Plant & Machine Operators & Assemblers,17500,female
+2017,Plant & Machine Operators & Assemblers,15500,female
+2016,Plant & Machine Operators & Assemblers,18600,female
+2015,Plant & Machine Operators & Assemblers,17400,female
+2014,Plant & Machine Operators & Assemblers,19500,female
+2013,Plant & Machine Operators & Assemblers,21900,female
+2012,Plant & Machine Operators & Assemblers,23900,female
+2011,Plant & Machine Operators & Assemblers,25900,female
+2010,Plant & Machine Operators & Assemblers,26300,female
+2009,Plant & Machine Operators & Assemblers,28000,female
+2008,Plant & Machine Operators & Assemblers,31000,female
+2007,Plant & Machine Operators & Assemblers,33300,female
+2005,Plant & Machine Operators & Assemblers,38900,female
+2004,Plant & Machine Operators & Assemblers,41600,female
+2003,Plant & Machine Operators & Assemblers,44300,female
+2002,Plant & Machine Operators & Assemblers,44200,female
+2001,Plant & Machine Operators & Assemblers,44300,female
+2000,Plant & Machine Operators & Assemblers,47600,female
+2021,Plant & Machine Operators & Assemblers,122500,male
+2020,Plant & Machine Operators & Assemblers,137200,male
+2019,Plant & Machine Operators & Assemblers,136800,male
+2018,Plant & Machine Operators & Assemblers,130400,male
+2017,Plant & Machine Operators & Assemblers,136000,male
+2016,Plant & Machine Operators & Assemblers,132600,male
+2015,Plant & Machine Operators & Assemblers,128700,male
+2014,Plant & Machine Operators & Assemblers,126400,male
+2013,Plant & Machine Operators & Assemblers,125000,male
+2012,Plant & Machine Operators & Assemblers,124800,male
+2011,Plant & Machine Operators & Assemblers,131700,male
+2010,Plant & Machine Operators & Assemblers,126300,male
+2009,Plant & Machine Operators & Assemblers,130400,male
+2008,Plant & Machine Operators & Assemblers,126400,male
+2007,Plant & Machine Operators & Assemblers,130700,male
+2005,Plant & Machine Operators & Assemblers,130900,male
+2004,Plant & Machine Operators & Assemblers,122600,male
+2003,Plant & Machine Operators & Assemblers,122400,male
+2002,Plant & Machine Operators & Assemblers,127000,male
+2001,Plant & Machine Operators & Assemblers,129300,male
+2000,Plant & Machine Operators & Assemblers,128100,male
+2021,Professionals,277000,female
+2020,Professionals,243700,female
+2019,Professionals,231400,female
+2018,Professionals,213300,female
+2017,Professionals,208600,female
+2016,Professionals,204700,female
+2015,Professionals,194800,female
+2014,Professionals,178000,female
+2013,Professionals,176400,female
+2012,Professionals,171100,female
+2011,Professionals,165200,female
+2010,Professionals,168300,female
+2009,Professionals,149800,female
+2008,Professionals,146900,female
+2007,Professionals,137400,female
+2005,Professionals,117400,female
+2004,Professionals,105600,female
+2003,Professionals,109400,female
+2002,Professionals,102000,female
+2001,Professionals,101600,female
+2000,Professionals,89600,female
+2021,Professionals,300500,male
+2020,Professionals,260500,male
+2019,Professionals,238000,male
+2018,Professionals,236000,male
+2017,Professionals,229000,male
+2016,Professionals,215100,male
+2015,Professionals,209300,male
+2014,Professionals,205300,male
+2013,Professionals,195500,male
+2012,Professionals,198900,male
+2011,Professionals,183200,male
+2010,Professionals,207400,male
+2009,Professionals,192000,male
+2008,Professionals,187600,male
+2007,Professionals,172300,male
+2005,Professionals,141500,male
+2004,Professionals,144300,male
+2003,Professionals,137700,male
+2002,Professionals,134300,male
+2001,Professionals,131400,male
+2000,Professionals,106900,male
+2021,Service & Sales Workers,132500,female
+2020,Service & Sales Workers,144700,female
+2019,Service & Sales Workers,146000,female
+2018,Service & Sales Workers,147200,female
+2017,Service & Sales Workers,139700,female
+2016,Service & Sales Workers,146800,female
+2015,Service & Sales Workers,138500,female
+2014,Service & Sales Workers,133600,female
+2013,Service & Sales Workers,132600,female
+2012,Service & Sales Workers,136800,female
+2011,Service & Sales Workers,127400,female
+2010,Service & Sales Workers,125600,female
+2009,Service & Sales Workers,111000,female
+2008,Service & Sales Workers,114200,female
+2007,Service & Sales Workers,110600,female
+2005,Service & Sales Workers,118400,female
+2004,Service & Sales Workers,100200,female
+2003,Service & Sales Workers,92700,female
+2002,Service & Sales Workers,91500,female
+2001,Service & Sales Workers,97200,female
+2000,Service & Sales Workers,82600,female
+2021,Service & Sales Workers,106800,male
+2020,Service & Sales Workers,107600,male
+2019,Service & Sales Workers,111700,male
+2018,Service & Sales Workers,115500,male
+2017,Service & Sales Workers,108300,male
+2016,Service & Sales Workers,115600,male
+2015,Service & Sales Workers,113000,male
+2014,Service & Sales Workers,110700,male
+2013,Service & Sales Workers,112100,male
+2012,Service & Sales Workers,115700,male
+2011,Service & Sales Workers,107400,male
+2010,Service & Sales Workers,108900,male
+2009,Service & Sales Workers,107900,male
+2008,Service & Sales Workers,105100,male
+2007,Service & Sales Workers,114900,male
+2005,Service & Sales Workers,126000,male
+2004,Service & Sales Workers,103300,male
+2003,Service & Sales Workers,104100,male
+2002,Service & Sales Workers,107300,male
+2001,Service & Sales Workers,103500,male
+2000,Service & Sales Workers,102100,male
