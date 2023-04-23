@@ -1,0 +1,331 @@
+year,course,femaleStudents,maleStudents
+2021,Accountancy,2915,2267
+2020,Accountancy,2932,2359
+2019,Accountancy,2999,2472
+2018,Accountancy,3140,2486
+2017,Accountancy,3225,2425
+2016,Accountancy,2909,2181
+2015,Accountancy,2684,2039
+2014,Accountancy,2456,1912
+2013,Accountancy,2274,1768
+2012,Accountancy,2316,1685
+2011,Accountancy,2244,1627
+2010,Accountancy,1882,1321
+2009,Accountancy,1871,1323
+2008,Accountancy,1910,1229
+2007,Accountancy,1914,1160
+2006,Accountancy,1845,1087
+2005,Accountancy,1732,829
+2004,Accountancy,1698,697
+2003,Accountancy,1497,672
+2002,Accountancy,1498,711
+2001,Accountancy,1543,712
+2000,Accountancy,1567,715
+2021,Applied Arts,898,550
+2020,Applied Arts,949,622
+2019,Applied Arts,996,661
+2018,Applied Arts,1034,698
+2017,Applied Arts,1038,725
+2016,Applied Arts,958,670
+2015,Applied Arts,934,665
+2014,Applied Arts,937,641
+2013,Applied Arts,864,628
+2012,Applied Arts,761,586
+2011,Applied Arts,640,539
+2010,Applied Arts,607,469
+2009,Applied Arts,549,408
+2008,Applied Arts,503,342
+2007,Applied Arts,429,282
+2006,Applied Arts,334,223
+2005,Applied Arts,212,143
+2004,Applied Arts,126,100
+2003,Applied Arts,91,83
+2002,Applied Arts,49,48
+2001,Applied Arts,37,35
+2000,Applied Arts,26,22
+2021,"Architecture, Building & Real Estate",1455,1427
+2020,"Architecture, Building & Real Estate",1488,1417
+2019,"Architecture, Building & Real Estate",1476,1377
+2018,"Architecture, Building & Real Estate",1509,1388
+2017,"Architecture, Building & Real Estate",1521,1403
+2016,"Architecture, Building & Real Estate",1205,775
+2015,"Architecture, Building & Real Estate",1189,784
+2014,"Architecture, Building & Real Estate",1213,777
+2013,"Architecture, Building & Real Estate",1123,760
+2012,"Architecture, Building & Real Estate",1119,710
+2011,"Architecture, Building & Real Estate",1163,694
+2010,"Architecture, Building & Real Estate",1117,669
+2009,"Architecture, Building & Real Estate",1032,639
+2008,"Architecture, Building & Real Estate",973,600
+2007,"Architecture, Building & Real Estate",966,579
+2006,"Architecture, Building & Real Estate",877,582
+2005,"Architecture, Building & Real Estate",870,609
+2004,"Architecture, Building & Real Estate",926,610
+2003,"Architecture, Building & Real Estate",881,593
+2002,"Architecture, Building & Real Estate",883,629
+2001,"Architecture, Building & Real Estate",886,608
+2000,"Architecture, Building & Real Estate",847,578
+2021,Business & Administration,9117,6856
+2020,Business & Administration,8434,6340
+2019,Business & Administration,7587,5793
+2018,Business & Administration,6971,5430
+2017,Business & Administration,6389,5212
+2016,Business & Administration,4230,3284
+2015,Business & Administration,4027,3111
+2014,Business & Administration,3597,2980
+2013,Business & Administration,3406,2782
+2012,Business & Administration,3368,2705
+2011,Business & Administration,3237,2543
+2010,Business & Administration,3738,2688
+2009,Business & Administration,3457,2529
+2008,Business & Administration,3423,2425
+2007,Business & Administration,3363,2312
+2006,Business & Administration,3271,2141
+2005,Business & Administration,3098,1914
+2004,Business & Administration,3024,1597
+2003,Business & Administration,2865,1406
+2002,Business & Administration,2738,1227
+2001,Business & Administration,2632,1130
+2000,Business & Administration,2593,1159
+2021,Dentistry,199,79
+2020,Dentistry,165,88
+2019,Dentistry,141,91
+2018,Dentistry,135,89
+2017,Dentistry,141,76
+2016,Dentistry,145,75
+2015,Dentistry,134,85
+2014,Dentistry,132,84
+2013,Dentistry,124,83
+2012,Dentistry,120,81
+2011,Dentistry,111,79
+2010,Dentistry,108,76
+2009,Dentistry,103,77
+2008,Dentistry,93,70
+2007,Dentistry,89,65
+2006,Dentistry,78,70
+2005,Dentistry,67,72
+2004,Dentistry,61,80
+2003,Dentistry,60,78
+2002,Dentistry,56,80
+2001,Dentistry,52,85
+2000,Dentistry,56,83
+2021,Education,1277,283
+2020,Education,1327,260
+2019,Education,1292,247
+2018,Education,1260,230
+2017,Education,1320,263
+2016,Education,583,169
+2015,Education,771,207
+2014,Education,845,258
+2013,Education,1021,317
+2012,Education,1189,420
+2011,Education,1369,468
+2010,Education,1376,465
+2009,Education,1329,406
+2008,Education,1174,301
+2007,Education,791,234
+2006,Education,652,212
+2005,Education,695,249
+2004,Education,812,286
+2003,Education,884,290
+2002,Education,846,261
+2001,Education,724,238
+2000,Education,616,211
+2021,Engineering Sciences,5967,15174
+2020,Engineering Sciences,5881,14977
+2019,Engineering Sciences,5912,15128
+2018,Engineering Sciences,5721,14930
+2017,Engineering Sciences,5508,14631
+2016,Engineering Sciences,5342,13314
+2015,Engineering Sciences,5460,12971
+2014,Engineering Sciences,5543,12895
+2013,Engineering Sciences,5386,12687
+2012,Engineering Sciences,5275,12732
+2011,Engineering Sciences,5064,12362
+2010,Engineering Sciences,4968,12326
+2009,Engineering Sciences,4862,12461
+2008,Engineering Sciences,4743,12447
+2007,Engineering Sciences,5021,12872
+2006,Engineering Sciences,5122,13359
+2005,Engineering Sciences,5286,13176
+2004,Engineering Sciences,5319,13018
+2003,Engineering Sciences,5068,12811
+2002,Engineering Sciences,5008,12649
+2001,Engineering Sciences,4669,12345
+2000,Engineering Sciences,4168,11861
+2021,Health Sciences,2874,1022
+2020,Health Sciences,2570,922
+2019,Health Sciences,2323,872
+2018,Health Sciences,1952,760
+2017,Health Sciences,1611,633
+2016,Health Sciences,1335,525
+2015,Health Sciences,1126,441
+2014,Health Sciences,1076,422
+2013,Health Sciences,1054,387
+2012,Health Sciences,948,345
+2011,Health Sciences,820,319
+2010,Health Sciences,783,281
+2009,Health Sciences,800,242
+2008,Health Sciences,711,176
+2007,Health Sciences,617,128
+2006,Health Sciences,489,94
+2005,Health Sciences,352,81
+2004,Health Sciences,277,70
+2003,Health Sciences,273,71
+2002,Health Sciences,257,68
+2001,Health Sciences,249,65
+2000,Health Sciences,223,66
+2021,Humanities & Social Sciences,10697,5158
+2020,Humanities & Social Sciences,10824,5231
+2019,Humanities & Social Sciences,10937,5242
+2018,Humanities & Social Sciences,10789,5227
+2017,Humanities & Social Sciences,10603,5155
+2016,Humanities & Social Sciences,8449,4046
+2015,Humanities & Social Sciences,8054,3861
+2014,Humanities & Social Sciences,7535,3756
+2013,Humanities & Social Sciences,7095,3550
+2012,Humanities & Social Sciences,6760,3327
+2011,Humanities & Social Sciences,6447,3242
+2010,Humanities & Social Sciences,6573,3121
+2009,Humanities & Social Sciences,6463,2993
+2008,Humanities & Social Sciences,6058,2701
+2007,Humanities & Social Sciences,5697,2388
+2006,Humanities & Social Sciences,4887,2135
+2005,Humanities & Social Sciences,4331,1823
+2004,Humanities & Social Sciences,3860,1599
+2003,Humanities & Social Sciences,3735,1501
+2002,Humanities & Social Sciences,3792,1478
+2001,Humanities & Social Sciences,3911,1506
+2000,Humanities & Social Sciences,3966,1477
+2021,Information Technology,3501,8433
+2020,Information Technology,3170,7019
+2019,Information Technology,2638,5750
+2018,Information Technology,2143,4907
+2017,Information Technology,1851,4474
+2016,Information Technology,1513,3352
+2015,Information Technology,1504,3071
+2014,Information Technology,1343,2809
+2013,Information Technology,1321,2737
+2012,Information Technology,1236,2617
+2011,Information Technology,1178,2465
+2010,Information Technology,1029,2178
+2009,Information Technology,920,1966
+2008,Information Technology,804,1775
+2007,Information Technology,768,1570
+2006,Information Technology,743,1429
+2005,Information Technology,722,1278
+2004,Information Technology,651,1206
+2003,Information Technology,686,1230
+2002,Information Technology,785,1283
+2001,Information Technology,804,1319
+2000,Information Technology,688,1236
+2021,Law,909,966
+2020,Law,907,916
+2019,Law,862,912
+2018,Law,818,890
+2017,Law,767,879
+2016,Law,740,853
+2015,Law,706,844
+2014,Law,715,799
+2013,Law,736,755
+2012,Law,717,757
+2011,Law,742,706
+2010,Law,783,640
+2009,Law,711,610
+2008,Law,649,494
+2007,Law,547,457
+2006,Law,463,409
+2005,Law,499,345
+2004,Law,502,314
+2003,Law,479,273
+2002,Law,435,245
+2001,Law,378,251
+2000,Law,350,248
+2021,Mass Communication & Information Science,963,328
+2020,Mass Communication & Information Science,937,363
+2019,Mass Communication & Information Science,936,389
+2018,Mass Communication & Information Science,973,414
+2017,Mass Communication & Information Science,958,411
+2016,Mass Communication & Information Science,596,178
+2015,Mass Communication & Information Science,602,174
+2014,Mass Communication & Information Science,555,174
+2013,Mass Communication & Information Science,529,173
+2012,Mass Communication & Information Science,494,184
+2011,Mass Communication & Information Science,490,183
+2010,Mass Communication & Information Science,490,185
+2009,Mass Communication & Information Science,516,176
+2008,Mass Communication & Information Science,543,145
+2007,Mass Communication & Information Science,546,147
+2006,Mass Communication & Information Science,555,130
+2005,Mass Communication & Information Science,507,137
+2004,Mass Communication & Information Science,490,132
+2003,Mass Communication & Information Science,474,134
+2002,Mass Communication & Information Science,413,137
+2001,Mass Communication & Information Science,399,134
+2000,Mass Communication & Information Science,361,136
+2021,Medicine,1052,1199
+2020,Medicine,1020,1158
+2019,Medicine,978,1117
+2018,Medicine,966,1079
+2017,Medicine,946,1016
+2016,Medicine,912,933
+2015,Medicine,859,860
+2014,Medicine,801,784
+2013,Medicine,744,725
+2012,Medicine,679,695
+2011,Medicine,647,681
+2010,Medicine,620,685
+2009,Medicine,596,682
+2008,Medicine,567,670
+2007,Medicine,536,671
+2006,Medicine,503,685
+2005,Medicine,479,690
+2004,Medicine,461,684
+2003,Medicine,441,673
+2002,Medicine,410,671
+2001,Medicine,386,650
+2000,Medicine,336,611
+2021,Natural & Mathematical Sciences,3985,3263
+2020,Natural & Mathematical Sciences,3685,3189
+2019,Natural & Mathematical Sciences,3981,3234
+2018,Natural & Mathematical Sciences,4231,3329
+2017,Natural & Mathematical Sciences,4646,3395
+2016,Natural & Mathematical Sciences,4967,3300
+2015,Natural & Mathematical Sciences,4989,3237
+2014,Natural & Mathematical Sciences,4922,3223
+2013,Natural & Mathematical Sciences,4715,3140
+2012,Natural & Mathematical Sciences,4625,3258
+2011,Natural & Mathematical Sciences,4482,3340
+2010,Natural & Mathematical Sciences,4481,3159
+2009,Natural & Mathematical Sciences,4457,2917
+2008,Natural & Mathematical Sciences,4227,2592
+2007,Natural & Mathematical Sciences,3925,2243
+2006,Natural & Mathematical Sciences,3513,2041
+2005,Natural & Mathematical Sciences,3203,1846
+2004,Natural & Mathematical Sciences,3002,1531
+2003,Natural & Mathematical Sciences,2976,1460
+2002,Natural & Mathematical Sciences,2674,1409
+2001,Natural & Mathematical Sciences,2547,1276
+2000,Natural & Mathematical Sciences,2295,1153
+2021,Services,522,749
+2020,Services,489,727
+2019,Services,464,684
+2018,Services,456,671
+2017,Services,440,654
+2016,Services,382,355
+2015,Services,373,352
+2014,Services,393,286
+2013,Services,551,371
+2012,Services,702,345
+2011,Services,575,252
+2010,Services,187,112
+2009,Services,160,103
+2008,Services,157,96
+2007,Services,163,83
+2006,Services,117,60
+2005,Services,80,28
+2004,Services,43,10
+2003,Services,0,0
+2002,Services,0,0
+2001,Services,0,0
+2000,Services,0,0
