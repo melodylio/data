@@ -1,0 +1,617 @@
+year,industry,numberOfWorkers,sex,age
+2021,Manufacturing,2700,male,20 - 24
+2020,Manufacturing,2500,male,20 - 24
+2019,Manufacturing,2000,male,20 - 24
+2018,Manufacturing,3000,male,20 - 24
+2017,Manufacturing,2300,male,20 - 24
+2016,Manufacturing,3400,male,20 - 24
+2015,Manufacturing,3200,male,20 - 24
+2014,Manufacturing,2800,male,20 - 24
+2013,Manufacturing,3500,male,20 - 24
+2012,Manufacturing,3500,male,20 - 24
+2011,Manufacturing,4000,male,20 - 24
+2010,Manufacturing,3800,male,20 - 24
+2009,Manufacturing,3200,male,20 - 24
+2008,Manufacturing,5200,male,20 - 24
+2007,Manufacturing,6000,male,20 - 24
+2006,Manufacturing,5500,male,20 - 24
+2005,Manufacturing,5300,male,20 - 24
+2004,Manufacturing,4000,male,20 - 24
+2003,Manufacturing,3600,male,20 - 24
+2002,Manufacturing,4700,male,20 - 24
+2001,Manufacturing,5000,male,20 - 24
+2000,Manufacturing,5700,male,20 - 24
+2021,Construction,900,male,20 - 24
+2020,Construction,800,male,20 - 24
+2019,Construction,600,male,20 - 24
+2018,Construction,1000,male,20 - 24
+2017,Construction,1300,male,20 - 24
+2016,Construction,1100,male,20 - 24
+2015,Construction,1300,male,20 - 24
+2014,Construction,1200,male,20 - 24
+2013,Construction,1100,male,20 - 24
+2012,Construction,1300,male,20 - 24
+2011,Construction,900,male,20 - 24
+2010,Construction,1100,male,20 - 24
+2009,Construction,1100,male,20 - 24
+2008,Construction,1200,male,20 - 24
+2007,Construction,900,male,20 - 24
+2006,Construction,1100,male,20 - 24
+2005,Construction,900,male,20 - 24
+2004,Construction,1300,male,20 - 24
+2003,Construction,800,male,20 - 24
+2002,Construction,1300,male,20 - 24
+2001,Construction,1400,male,20 - 24
+2000,Construction,1800,male,20 - 24
+2021,Wholesale & Retail Trade,3500,male,20 - 24
+2020,Wholesale & Retail Trade,3700,male,20 - 24
+2019,Wholesale & Retail Trade,5300,male,20 - 24
+2018,Wholesale & Retail Trade,4900,male,20 - 24
+2017,Wholesale & Retail Trade,5400,male,20 - 24
+2016,Wholesale & Retail Trade,6100,male,20 - 24
+2015,Wholesale & Retail Trade,6600,male,20 - 24
+2014,Wholesale & Retail Trade,7000,male,20 - 24
+2013,Wholesale & Retail Trade,6400,male,20 - 24
+2012,Wholesale & Retail Trade,7500,male,20 - 24
+2011,Wholesale & Retail Trade,5800,male,20 - 24
+2010,Wholesale & Retail Trade,6500,male,20 - 24
+2009,Wholesale & Retail Trade,5900,male,20 - 24
+2008,Wholesale & Retail Trade,5000,male,20 - 24
+2007,Wholesale & Retail Trade,6700,male,20 - 24
+2006,Wholesale & Retail Trade,6600,male,20 - 24
+2005,Wholesale & Retail Trade,6700,male,20 - 24
+2004,Wholesale & Retail Trade,5700,male,20 - 24
+2003,Wholesale & Retail Trade,4800,male,20 - 24
+2002,Wholesale & Retail Trade,5400,male,20 - 24
+2001,Wholesale & Retail Trade,5800,male,20 - 24
+2000,Wholesale & Retail Trade,6200,male,20 - 24
+2021,Transportation & Storage,4800,male,20 - 24
+2020,Transportation & Storage,4900,male,20 - 24
+2019,Transportation & Storage,4600,male,20 - 24
+2018,Transportation & Storage,3800,male,20 - 24
+2017,Transportation & Storage,5000,male,20 - 24
+2016,Transportation & Storage,3400,male,20 - 24
+2015,Transportation & Storage,3500,male,20 - 24
+2014,Transportation & Storage,3300,male,20 - 24
+2013,Transportation & Storage,3500,male,20 - 24
+2012,Transportation & Storage,3600,male,20 - 24
+2011,Transportation & Storage,3400,male,20 - 24
+2010,Transportation & Storage,3700,male,20 - 24
+2009,Transportation & Storage,3100,male,20 - 24
+2008,Transportation & Storage,3600,male,20 - 24
+2007,Transportation & Storage,3300,male,20 - 24
+2006,Transportation & Storage,3100,male,20 - 24
+2005,Transportation & Storage,2900,male,20 - 24
+2004,Transportation & Storage,2300,male,20 - 24
+2003,Transportation & Storage,2300,male,20 - 24
+2002,Transportation & Storage,2200,male,20 - 24
+2001,Transportation & Storage,3100,male,20 - 24
+2000,Transportation & Storage,3200,male,20 - 24
+2021,Accommodation & Food Services,3200,male,20 - 24
+2020,Accommodation & Food Services,2500,male,20 - 24
+2019,Accommodation & Food Services,4600,male,20 - 24
+2018,Accommodation & Food Services,4400,male,20 - 24
+2017,Accommodation & Food Services,4600,male,20 - 24
+2016,Accommodation & Food Services,4600,male,20 - 24
+2015,Accommodation & Food Services,5100,male,20 - 24
+2014,Accommodation & Food Services,4700,male,20 - 24
+2013,Accommodation & Food Services,4300,male,20 - 24
+2012,Accommodation & Food Services,4200,male,20 - 24
+2011,Accommodation & Food Services,4400,male,20 - 24
+2010,Accommodation & Food Services,3500,male,20 - 24
+2009,Accommodation & Food Services,3900,male,20 - 24
+2008,Accommodation & Food Services,3600,male,20 - 24
+2007,Accommodation & Food Services,3700,male,20 - 24
+2006,Accommodation & Food Services,4100,male,20 - 24
+2005,Accommodation & Food Services,3100,male,20 - 24
+2004,Accommodation & Food Services,3400,male,20 - 24
+2003,Accommodation & Food Services,3000,male,20 - 24
+2002,Accommodation & Food Services,2500,male,20 - 24
+2001,Accommodation & Food Services,3000,male,20 - 24
+2000,Accommodation & Food Services,2600,male,20 - 24
+2021,Information & Communications,2300,male,20 - 24
+2020,Information & Communications,2400,male,20 - 24
+2019,Information & Communications,2400,male,20 - 24
+2018,Information & Communications,1800,male,20 - 24
+2017,Information & Communications,1300,male,20 - 24
+2016,Information & Communications,2800,male,20 - 24
+2015,Information & Communications,2100,male,20 - 24
+2014,Information & Communications,2100,male,20 - 24
+2013,Information & Communications,1600,male,20 - 24
+2012,Information & Communications,2900,male,20 - 24
+2011,Information & Communications,1800,male,20 - 24
+2010,Information & Communications,3300,male,20 - 24
+2009,Information & Communications,2000,male,20 - 24
+2008,Information & Communications,2800,male,20 - 24
+2007,Information & Communications,2300,male,20 - 24
+2006,Information & Communications,2500,male,20 - 24
+2005,Information & Communications,1700,male,20 - 24
+2004,Information & Communications,2000,male,20 - 24
+2003,Information & Communications,1300,male,20 - 24
+2002,Information & Communications,1300,male,20 - 24
+2001,Information & Communications,2500,male,20 - 24
+2000,Information & Communications,1800,male,20 - 24
+2021,Financial & Insurance Services,2300,male,20 - 24
+2020,Financial & Insurance Services,3000,male,20 - 24
+2019,Financial & Insurance Services,2800,male,20 - 24
+2018,Financial & Insurance Services,3600,male,20 - 24
+2017,Financial & Insurance Services,3200,male,20 - 24
+2016,Financial & Insurance Services,3000,male,20 - 24
+2015,Financial & Insurance Services,3500,male,20 - 24
+2014,Financial & Insurance Services,3000,male,20 - 24
+2013,Financial & Insurance Services,2000,male,20 - 24
+2012,Financial & Insurance Services,2800,male,20 - 24
+2011,Financial & Insurance Services,2300,male,20 - 24
+2010,Financial & Insurance Services,2300,male,20 - 24
+2009,Financial & Insurance Services,1800,male,20 - 24
+2008,Financial & Insurance Services,2500,male,20 - 24
+2007,Financial & Insurance Services,1900,male,20 - 24
+2006,Financial & Insurance Services,1200,male,20 - 24
+2005,Financial & Insurance Services,1300,male,20 - 24
+2004,Financial & Insurance Services,1000,male,20 - 24
+2003,Financial & Insurance Services,600,male,20 - 24
+2002,Financial & Insurance Services,700,male,20 - 24
+2001,Financial & Insurance Services,1200,male,20 - 24
+2000,Financial & Insurance Services,1000,male,20 - 24
+2021,Real Estate Services,300,male,20 - 24
+2020,Real Estate Services,100,male,20 - 24
+2019,Real Estate Services,100,male,20 - 24
+2018,Real Estate Services,500,male,20 - 24
+2017,Real Estate Services,500,male,20 - 24
+2016,Real Estate Services,600,male,20 - 24
+2015,Real Estate Services,500,male,20 - 24
+2014,Real Estate Services,400,male,20 - 24
+2013,Real Estate Services,500,male,20 - 24
+2012,Real Estate Services,700,male,20 - 24
+2011,Real Estate Services,600,male,20 - 24
+2010,Real Estate Services,200,male,20 - 24
+2009,Real Estate Services,400,male,20 - 24
+2008,Real Estate Services,500,male,20 - 24
+2007,Real Estate Services,600,male,20 - 24
+2006,Real Estate Services,400,male,20 - 24
+2005,Real Estate Services,500,male,20 - 24
+2004,Real Estate Services,400,male,20 - 24
+2003,Real Estate Services,200,male,20 - 24
+2002,Real Estate Services,200,male,20 - 24
+2001,Real Estate Services,400,male,20 - 24
+2000,Real Estate Services,400,male,20 - 24
+2021,Professional Services,3000,male,20 - 24
+2020,Professional Services,1300,male,20 - 24
+2019,Professional Services,2700,male,20 - 24
+2018,Professional Services,3100,male,20 - 24
+2017,Professional Services,3100,male,20 - 24
+2016,Professional Services,2400,male,20 - 24
+2015,Professional Services,2700,male,20 - 24
+2014,Professional Services,2500,male,20 - 24
+2013,Professional Services,3000,male,20 - 24
+2012,Professional Services,2600,male,20 - 24
+2011,Professional Services,2100,male,20 - 24
+2010,Professional Services,2500,male,20 - 24
+2009,Professional Services,2100,male,20 - 24
+2008,Professional Services,2800,male,20 - 24
+2007,Professional Services,1900,male,20 - 24
+2006,Professional Services,1700,male,20 - 24
+2005,Professional Services,1500,male,20 - 24
+2004,Professional Services,1100,male,20 - 24
+2003,Professional Services,800,male,20 - 24
+2002,Professional Services,800,male,20 - 24
+2001,Professional Services,1300,male,20 - 24
+2000,Professional Services,1400,male,20 - 24
+2021,Administrative & Support Services,1600,male,20 - 24
+2020,Administrative & Support Services,2000,male,20 - 24
+2019,Administrative & Support Services,3100,male,20 - 24
+2018,Administrative & Support Services,2300,male,20 - 24
+2017,Administrative & Support Services,2600,male,20 - 24
+2016,Administrative & Support Services,2600,male,20 - 24
+2015,Administrative & Support Services,2700,male,20 - 24
+2014,Administrative & Support Services,2700,male,20 - 24
+2013,Administrative & Support Services,2100,male,20 - 24
+2012,Administrative & Support Services,2000,male,20 - 24
+2011,Administrative & Support Services,1900,male,20 - 24
+2010,Administrative & Support Services,2800,male,20 - 24
+2009,Administrative & Support Services,2200,male,20 - 24
+2008,Administrative & Support Services,2200,male,20 - 24
+2007,Administrative & Support Services,2200,male,20 - 24
+2006,Administrative & Support Services,2400,male,20 - 24
+2005,Administrative & Support Services,2500,male,20 - 24
+2004,Administrative & Support Services,1700,male,20 - 24
+2003,Administrative & Support Services,1900,male,20 - 24
+2002,Administrative & Support Services,1300,male,20 - 24
+2001,Administrative & Support Services,1300,male,20 - 24
+2000,Administrative & Support Services,1300,male,20 - 24
+2021,Public Administration & Education,34200,male,20 - 24
+2020,Public Administration & Education,34700,male,20 - 24
+2019,Public Administration & Education,36700,male,20 - 24
+2018,Public Administration & Education,39200,male,20 - 24
+2017,Public Administration & Education,40300,male,20 - 24
+2016,Public Administration & Education,44600,male,20 - 24
+2015,Public Administration & Education,42000,male,20 - 24
+2014,Public Administration & Education,46300,male,20 - 24
+2013,Public Administration & Education,47000,male,20 - 24
+2012,Public Administration & Education,48400,male,20 - 24
+2011,Public Administration & Education,46000,male,20 - 24
+2010,Public Administration & Education,42300,male,20 - 24
+2009,Public Administration & Education,41000,male,20 - 24
+2008,Public Administration & Education,38400,male,20 - 24
+2007,Public Administration & Education,35700,male,20 - 24
+2006,Public Administration & Education,43800,male,20 - 24
+2005,Public Administration & Education,32600,male,20 - 24
+2004,Public Administration & Education,44900,male,20 - 24
+2003,Public Administration & Education,45800,male,20 - 24
+2002,Public Administration & Education,43500,male,20 - 24
+2001,Public Administration & Education,42400,male,20 - 24
+2000,Public Administration & Education,34000,male,20 - 24
+2021,Health & Social Services,3200,male,20 - 24
+2020,Health & Social Services,1200,male,20 - 24
+2019,Health & Social Services,1500,male,20 - 24
+2018,Health & Social Services,800,male,20 - 24
+2017,Health & Social Services,900,male,20 - 24
+2016,Health & Social Services,1200,male,20 - 24
+2015,Health & Social Services,1100,male,20 - 24
+2014,Health & Social Services,500,male,20 - 24
+2013,Health & Social Services,1100,male,20 - 24
+2012,Health & Social Services,900,male,20 - 24
+2011,Health & Social Services,900,male,20 - 24
+2010,Health & Social Services,800,male,20 - 24
+2009,Health & Social Services,1300,male,20 - 24
+2008,Health & Social Services,800,male,20 - 24
+2007,Health & Social Services,500,male,20 - 24
+2006,Health & Social Services,500,male,20 - 24
+2005,Health & Social Services,300,male,20 - 24
+2004,Health & Social Services,400,male,20 - 24
+2003,Health & Social Services,300,male,20 - 24
+2002,Health & Social Services,300,male,20 - 24
+2001,Health & Social Services,300,male,20 - 24
+2000,Health & Social Services,300,male,20 - 24
+2021,"Arts, Entertainment & Recreation",700,male,20 - 24
+2020,"Arts, Entertainment & Recreation",600,male,20 - 24
+2019,"Arts, Entertainment & Recreation",1400,male,20 - 24
+2018,"Arts, Entertainment & Recreation",1300,male,20 - 24
+2017,"Arts, Entertainment & Recreation",2000,male,20 - 24
+2016,"Arts, Entertainment & Recreation",1800,male,20 - 24
+2015,"Arts, Entertainment & Recreation",1600,male,20 - 24
+2014,"Arts, Entertainment & Recreation",1600,male,20 - 24
+2013,"Arts, Entertainment & Recreation",1800,male,20 - 24
+2012,"Arts, Entertainment & Recreation",2900,male,20 - 24
+2011,"Arts, Entertainment & Recreation",1600,male,20 - 24
+2010,"Arts, Entertainment & Recreation",1700,male,20 - 24
+2009,"Arts, Entertainment & Recreation",1200,male,20 - 24
+2008,"Arts, Entertainment & Recreation",700,male,20 - 24
+2007,"Arts, Entertainment & Recreation",1200,male,20 - 24
+2006,"Arts, Entertainment & Recreation",800,male,20 - 24
+2005,"Arts, Entertainment & Recreation",700,male,20 - 24
+2004,"Arts, Entertainment & Recreation",400,male,20 - 24
+2003,"Arts, Entertainment & Recreation",300,male,20 - 24
+2002,"Arts, Entertainment & Recreation",500,male,20 - 24
+2001,"Arts, Entertainment & Recreation",400,male,20 - 24
+2000,"Arts, Entertainment & Recreation",700,male,20 - 24
+2021,"Other Community, Social & Personal Services",400,male,20 - 24
+2020,"Other Community, Social & Personal Services",600,male,20 - 24
+2019,"Other Community, Social & Personal Services",800,male,20 - 24
+2018,"Other Community, Social & Personal Services",600,male,20 - 24
+2017,"Other Community, Social & Personal Services",700,male,20 - 24
+2016,"Other Community, Social & Personal Services",800,male,20 - 24
+2015,"Other Community, Social & Personal Services",900,male,20 - 24
+2014,"Other Community, Social & Personal Services",900,male,20 - 24
+2013,"Other Community, Social & Personal Services",800,male,20 - 24
+2012,"Other Community, Social & Personal Services",1000,male,20 - 24
+2011,"Other Community, Social & Personal Services",600,male,20 - 24
+2010,"Other Community, Social & Personal Services",1000,male,20 - 24
+2009,"Other Community, Social & Personal Services",800,male,20 - 24
+2008,"Other Community, Social & Personal Services",800,male,20 - 24
+2007,"Other Community, Social & Personal Services",800,male,20 - 24
+2006,"Other Community, Social & Personal Services",700,male,20 - 24
+2005,"Other Community, Social & Personal Services",900,male,20 - 24
+2004,"Other Community, Social & Personal Services",1000,male,20 - 24
+2003,"Other Community, Social & Personal Services",800,male,20 - 24
+2002,"Other Community, Social & Personal Services",900,male,20 - 24
+2001,"Other Community, Social & Personal Services",900,male,20 - 24
+2000,"Other Community, Social & Personal Services",1100,male,20 - 24
+2021,Manufacturing,2600,female,20 - 24
+2020,Manufacturing,3000,female,20 - 24
+2019,Manufacturing,2800,female,20 - 24
+2018,Manufacturing,3100,female,20 - 24
+2017,Manufacturing,2500,female,20 - 24
+2016,Manufacturing,2300,female,20 - 24
+2015,Manufacturing,3200,female,20 - 24
+2014,Manufacturing,3100,female,20 - 24
+2013,Manufacturing,3900,female,20 - 24
+2012,Manufacturing,3500,female,20 - 24
+2011,Manufacturing,3900,female,20 - 24
+2010,Manufacturing,4200,female,20 - 24
+2009,Manufacturing,4000,female,20 - 24
+2008,Manufacturing,5300,female,20 - 24
+2007,Manufacturing,5600,female,20 - 24
+2006,Manufacturing,5100,female,20 - 24
+2005,Manufacturing,5900,female,20 - 24
+2004,Manufacturing,6400,female,20 - 24
+2003,Manufacturing,6400,female,20 - 24
+2002,Manufacturing,6900,female,20 - 24
+2001,Manufacturing,8200,female,20 - 24
+2000,Manufacturing,8100,female,20 - 24
+2021,Construction,1100,female,20 - 24
+2020,Construction,1200,female,20 - 24
+2019,Construction,700,female,20 - 24
+2018,Construction,900,female,20 - 24
+2017,Construction,1300,female,20 - 24
+2016,Construction,800,female,20 - 24
+2015,Construction,1400,female,20 - 24
+2014,Construction,1100,female,20 - 24
+2013,Construction,900,female,20 - 24
+2012,Construction,1500,female,20 - 24
+2011,Construction,1100,female,20 - 24
+2010,Construction,1000,female,20 - 24
+2009,Construction,1100,female,20 - 24
+2008,Construction,1100,female,20 - 24
+2007,Construction,1000,female,20 - 24
+2006,Construction,1100,female,20 - 24
+2005,Construction,500,female,20 - 24
+2004,Construction,900,female,20 - 24
+2003,Construction,1400,female,20 - 24
+2002,Construction,900,female,20 - 24
+2001,Construction,1200,female,20 - 24
+2000,Construction,1500,female,20 - 24
+2021,Wholesale & Retail Trade,7700,female,20 - 24
+2020,Wholesale & Retail Trade,8200,female,20 - 24
+2019,Wholesale & Retail Trade,8000,female,20 - 24
+2018,Wholesale & Retail Trade,9800,female,20 - 24
+2017,Wholesale & Retail Trade,10200,female,20 - 24
+2016,Wholesale & Retail Trade,11600,female,20 - 24
+2015,Wholesale & Retail Trade,10100,female,20 - 24
+2014,Wholesale & Retail Trade,10200,female,20 - 24
+2013,Wholesale & Retail Trade,10100,female,20 - 24
+2012,Wholesale & Retail Trade,10600,female,20 - 24
+2011,Wholesale & Retail Trade,10700,female,20 - 24
+2010,Wholesale & Retail Trade,10000,female,20 - 24
+2009,Wholesale & Retail Trade,7600,female,20 - 24
+2008,Wholesale & Retail Trade,10000,female,20 - 24
+2007,Wholesale & Retail Trade,9900,female,20 - 24
+2006,Wholesale & Retail Trade,10700,female,20 - 24
+2005,Wholesale & Retail Trade,11300,female,20 - 24
+2004,Wholesale & Retail Trade,10100,female,20 - 24
+2003,Wholesale & Retail Trade,10200,female,20 - 24
+2002,Wholesale & Retail Trade,9000,female,20 - 24
+2001,Wholesale & Retail Trade,9400,female,20 - 24
+2000,Wholesale & Retail Trade,10400,female,20 - 24
+2021,Transportation & Storage,2400,female,20 - 24
+2020,Transportation & Storage,4000,female,20 - 24
+2019,Transportation & Storage,3300,female,20 - 24
+2018,Transportation & Storage,3900,female,20 - 24
+2017,Transportation & Storage,3200,female,20 - 24
+2016,Transportation & Storage,4300,female,20 - 24
+2015,Transportation & Storage,4000,female,20 - 24
+2014,Transportation & Storage,3800,female,20 - 24
+2013,Transportation & Storage,4500,female,20 - 24
+2012,Transportation & Storage,4200,female,20 - 24
+2011,Transportation & Storage,4700,female,20 - 24
+2010,Transportation & Storage,3500,female,20 - 24
+2009,Transportation & Storage,3800,female,20 - 24
+2008,Transportation & Storage,3900,female,20 - 24
+2007,Transportation & Storage,4100,female,20 - 24
+2006,Transportation & Storage,3800,female,20 - 24
+2005,Transportation & Storage,4300,female,20 - 24
+2004,Transportation & Storage,4000,female,20 - 24
+2003,Transportation & Storage,4600,female,20 - 24
+2002,Transportation & Storage,3900,female,20 - 24
+2001,Transportation & Storage,5000,female,20 - 24
+2000,Transportation & Storage,4200,female,20 - 24
+2021,Accommodation & Food Services,4500,female,20 - 24
+2020,Accommodation & Food Services,4300,female,20 - 24
+2019,Accommodation & Food Services,5700,female,20 - 24
+2018,Accommodation & Food Services,5400,female,20 - 24
+2017,Accommodation & Food Services,4600,female,20 - 24
+2016,Accommodation & Food Services,5100,female,20 - 24
+2015,Accommodation & Food Services,4700,female,20 - 24
+2014,Accommodation & Food Services,5000,female,20 - 24
+2013,Accommodation & Food Services,4400,female,20 - 24
+2012,Accommodation & Food Services,4800,female,20 - 24
+2011,Accommodation & Food Services,5700,female,20 - 24
+2010,Accommodation & Food Services,4400,female,20 - 24
+2009,Accommodation & Food Services,4400,female,20 - 24
+2008,Accommodation & Food Services,3700,female,20 - 24
+2007,Accommodation & Food Services,4000,female,20 - 24
+2006,Accommodation & Food Services,4000,female,20 - 24
+2005,Accommodation & Food Services,3000,female,20 - 24
+2004,Accommodation & Food Services,3200,female,20 - 24
+2003,Accommodation & Food Services,3700,female,20 - 24
+2002,Accommodation & Food Services,2800,female,20 - 24
+2001,Accommodation & Food Services,3300,female,20 - 24
+2000,Accommodation & Food Services,2700,female,20 - 24
+2021,Information & Communications,4800,female,20 - 24
+2020,Information & Communications,3800,female,20 - 24
+2019,Information & Communications,3800,female,20 - 24
+2018,Information & Communications,3300,female,20 - 24
+2017,Information & Communications,2800,female,20 - 24
+2016,Information & Communications,3300,female,20 - 24
+2015,Information & Communications,3700,female,20 - 24
+2014,Information & Communications,3300,female,20 - 24
+2013,Information & Communications,3200,female,20 - 24
+2012,Information & Communications,3300,female,20 - 24
+2011,Information & Communications,3200,female,20 - 24
+2010,Information & Communications,3400,female,20 - 24
+2009,Information & Communications,3100,female,20 - 24
+2008,Information & Communications,4000,female,20 - 24
+2007,Information & Communications,3700,female,20 - 24
+2006,Information & Communications,3800,female,20 - 24
+2005,Information & Communications,3200,female,20 - 24
+2004,Information & Communications,3500,female,20 - 24
+2003,Information & Communications,3500,female,20 - 24
+2002,Information & Communications,3300,female,20 - 24
+2001,Information & Communications,5300,female,20 - 24
+2000,Information & Communications,4200,female,20 - 24
+2021,Financial & Insurance Services,5200,female,20 - 24
+2020,Financial & Insurance Services,4600,female,20 - 24
+2019,Financial & Insurance Services,5100,female,20 - 24
+2018,Financial & Insurance Services,6900,female,20 - 24
+2017,Financial & Insurance Services,5200,female,20 - 24
+2016,Financial & Insurance Services,7300,female,20 - 24
+2015,Financial & Insurance Services,6500,female,20 - 24
+2014,Financial & Insurance Services,5900,female,20 - 24
+2013,Financial & Insurance Services,5000,female,20 - 24
+2012,Financial & Insurance Services,7400,female,20 - 24
+2011,Financial & Insurance Services,6700,female,20 - 24
+2010,Financial & Insurance Services,5200,female,20 - 24
+2009,Financial & Insurance Services,5600,female,20 - 24
+2008,Financial & Insurance Services,7200,female,20 - 24
+2007,Financial & Insurance Services,6300,female,20 - 24
+2006,Financial & Insurance Services,6400,female,20 - 24
+2005,Financial & Insurance Services,5800,female,20 - 24
+2004,Financial & Insurance Services,5500,female,20 - 24
+2003,Financial & Insurance Services,4300,female,20 - 24
+2002,Financial & Insurance Services,4600,female,20 - 24
+2001,Financial & Insurance Services,5600,female,20 - 24
+2000,Financial & Insurance Services,6500,female,20 - 24
+2021,Real Estate Services,900,female,20 - 24
+2020,Real Estate Services,700,female,20 - 24
+2019,Real Estate Services,700,female,20 - 24
+2018,Real Estate Services,900,female,20 - 24
+2017,Real Estate Services,1300,female,20 - 24
+2016,Real Estate Services,1100,female,20 - 24
+2015,Real Estate Services,1300,female,20 - 24
+2014,Real Estate Services,900,female,20 - 24
+2013,Real Estate Services,1400,female,20 - 24
+2012,Real Estate Services,1200,female,20 - 24
+2011,Real Estate Services,1200,female,20 - 24
+2010,Real Estate Services,1400,female,20 - 24
+2009,Real Estate Services,1000,female,20 - 24
+2008,Real Estate Services,1300,female,20 - 24
+2007,Real Estate Services,1000,female,20 - 24
+2006,Real Estate Services,1200,female,20 - 24
+2005,Real Estate Services,1000,female,20 - 24
+2004,Real Estate Services,800,female,20 - 24
+2003,Real Estate Services,1200,female,20 - 24
+2002,Real Estate Services,1200,female,20 - 24
+2001,Real Estate Services,1400,female,20 - 24
+2000,Real Estate Services,1900,female,20 - 24
+2021,Professional Services,8700,female,20 - 24
+2020,Professional Services,6200,female,20 - 24
+2019,Professional Services,7400,female,20 - 24
+2018,Professional Services,7500,female,20 - 24
+2017,Professional Services,6400,female,20 - 24
+2016,Professional Services,8000,female,20 - 24
+2015,Professional Services,8700,female,20 - 24
+2014,Professional Services,6700,female,20 - 24
+2013,Professional Services,5700,female,20 - 24
+2012,Professional Services,7400,female,20 - 24
+2011,Professional Services,6800,female,20 - 24
+2010,Professional Services,6600,female,20 - 24
+2009,Professional Services,4800,female,20 - 24
+2008,Professional Services,7000,female,20 - 24
+2007,Professional Services,5800,female,20 - 24
+2006,Professional Services,6500,female,20 - 24
+2005,Professional Services,5300,female,20 - 24
+2004,Professional Services,4900,female,20 - 24
+2003,Professional Services,3700,female,20 - 24
+2002,Professional Services,3700,female,20 - 24
+2001,Professional Services,5400,female,20 - 24
+2000,Professional Services,5100,female,20 - 24
+2021,Administrative & Support Services,2300,female,20 - 24
+2020,Administrative & Support Services,1900,female,20 - 24
+2019,Administrative & Support Services,3600,female,20 - 24
+2018,Administrative & Support Services,1600,female,20 - 24
+2017,Administrative & Support Services,2500,female,20 - 24
+2016,Administrative & Support Services,2500,female,20 - 24
+2015,Administrative & Support Services,2600,female,20 - 24
+2014,Administrative & Support Services,2200,female,20 - 24
+2013,Administrative & Support Services,3300,female,20 - 24
+2012,Administrative & Support Services,2400,female,20 - 24
+2011,Administrative & Support Services,2900,female,20 - 24
+2010,Administrative & Support Services,3000,female,20 - 24
+2009,Administrative & Support Services,3300,female,20 - 24
+2008,Administrative & Support Services,2800,female,20 - 24
+2007,Administrative & Support Services,2800,female,20 - 24
+2006,Administrative & Support Services,3000,female,20 - 24
+2005,Administrative & Support Services,2300,female,20 - 24
+2004,Administrative & Support Services,1700,female,20 - 24
+2003,Administrative & Support Services,1700,female,20 - 24
+2002,Administrative & Support Services,1900,female,20 - 24
+2001,Administrative & Support Services,2200,female,20 - 24
+2000,Administrative & Support Services,2000,female,20 - 24
+2021,Public Administration & Education,8100,female,20 - 24
+2020,Public Administration & Education,6900,female,20 - 24
+2019,Public Administration & Education,8700,female,20 - 24
+2018,Public Administration & Education,8800,female,20 - 24
+2017,Public Administration & Education,7900,female,20 - 24
+2016,Public Administration & Education,9100,female,20 - 24
+2015,Public Administration & Education,12100,female,20 - 24
+2014,Public Administration & Education,11000,female,20 - 24
+2013,Public Administration & Education,9300,female,20 - 24
+2012,Public Administration & Education,11800,female,20 - 24
+2011,Public Administration & Education,10300,female,20 - 24
+2010,Public Administration & Education,12100,female,20 - 24
+2009,Public Administration & Education,8700,female,20 - 24
+2008,Public Administration & Education,7700,female,20 - 24
+2007,Public Administration & Education,7800,female,20 - 24
+2006,Public Administration & Education,9500,female,20 - 24
+2005,Public Administration & Education,7400,female,20 - 24
+2004,Public Administration & Education,8300,female,20 - 24
+2003,Public Administration & Education,8900,female,20 - 24
+2002,Public Administration & Education,8800,female,20 - 24
+2001,Public Administration & Education,8300,female,20 - 24
+2000,Public Administration & Education,8100,female,20 - 24
+2021,Health & Social Services,9300,female,20 - 24
+2020,Health & Social Services,7700,female,20 - 24
+2019,Health & Social Services,9300,female,20 - 24
+2018,Health & Social Services,8300,female,20 - 24
+2017,Health & Social Services,9900,female,20 - 24
+2016,Health & Social Services,8300,female,20 - 24
+2015,Health & Social Services,8600,female,20 - 24
+2014,Health & Social Services,9300,female,20 - 24
+2013,Health & Social Services,6700,female,20 - 24
+2012,Health & Social Services,8400,female,20 - 24
+2011,Health & Social Services,8700,female,20 - 24
+2010,Health & Social Services,7200,female,20 - 24
+2009,Health & Social Services,6100,female,20 - 24
+2008,Health & Social Services,6000,female,20 - 24
+2007,Health & Social Services,5700,female,20 - 24
+2006,Health & Social Services,6100,female,20 - 24
+2005,Health & Social Services,4200,female,20 - 24
+2004,Health & Social Services,5700,female,20 - 24
+2003,Health & Social Services,3900,female,20 - 24
+2002,Health & Social Services,2800,female,20 - 24
+2001,Health & Social Services,3800,female,20 - 24
+2000,Health & Social Services,3400,female,20 - 24
+2021,"Arts, Entertainment & Recreation",1200,female,20 - 24
+2020,"Arts, Entertainment & Recreation",1000,female,20 - 24
+2019,"Arts, Entertainment & Recreation",1200,female,20 - 24
+2018,"Arts, Entertainment & Recreation",2200,female,20 - 24
+2017,"Arts, Entertainment & Recreation",1800,female,20 - 24
+2016,"Arts, Entertainment & Recreation",2400,female,20 - 24
+2015,"Arts, Entertainment & Recreation",2500,female,20 - 24
+2014,"Arts, Entertainment & Recreation",3000,female,20 - 24
+2013,"Arts, Entertainment & Recreation",2200,female,20 - 24
+2012,"Arts, Entertainment & Recreation",2700,female,20 - 24
+2011,"Arts, Entertainment & Recreation",2100,female,20 - 24
+2010,"Arts, Entertainment & Recreation",2100,female,20 - 24
+2009,"Arts, Entertainment & Recreation",1100,female,20 - 24
+2008,"Arts, Entertainment & Recreation",900,female,20 - 24
+2007,"Arts, Entertainment & Recreation",900,female,20 - 24
+2006,"Arts, Entertainment & Recreation",900,female,20 - 24
+2005,"Arts, Entertainment & Recreation",700,female,20 - 24
+2004,"Arts, Entertainment & Recreation",400,female,20 - 24
+2003,"Arts, Entertainment & Recreation",500,female,20 - 24
+2002,"Arts, Entertainment & Recreation",600,female,20 - 24
+2001,"Arts, Entertainment & Recreation",700,female,20 - 24
+2000,"Arts, Entertainment & Recreation",900,female,20 - 24
+2021,"Other Community, Social & Personal Services",1700,female,20 - 24
+2020,"Other Community, Social & Personal Services",1800,female,20 - 24
+2019,"Other Community, Social & Personal Services",1600,female,20 - 24
+2018,"Other Community, Social & Personal Services",2100,female,20 - 24
+2017,"Other Community, Social & Personal Services",1900,female,20 - 24
+2016,"Other Community, Social & Personal Services",2100,female,20 - 24
+2015,"Other Community, Social & Personal Services",2900,female,20 - 24
+2014,"Other Community, Social & Personal Services",1500,female,20 - 24
+2013,"Other Community, Social & Personal Services",1700,female,20 - 24
+2012,"Other Community, Social & Personal Services",1600,female,20 - 24
+2011,"Other Community, Social & Personal Services",1900,female,20 - 24
+2010,"Other Community, Social & Personal Services",1500,female,20 - 24
+2009,"Other Community, Social & Personal Services",2400,female,20 - 24
+2008,"Other Community, Social & Personal Services",1800,female,20 - 24
+2007,"Other Community, Social & Personal Services",1400,female,20 - 24
+2006,"Other Community, Social & Personal Services",2300,female,20 - 24
+2005,"Other Community, Social & Personal Services",1700,female,20 - 24
+2004,"Other Community, Social & Personal Services",1500,female,20 - 24
+2003,"Other Community, Social & Personal Services",1000,female,20 - 24
+2002,"Other Community, Social & Personal Services",1500,female,20 - 24
+2001,"Other Community, Social & Personal Services",1000,female,20 - 24
+2000,"Other Community, Social & Personal Services",1300,female,20 - 24
