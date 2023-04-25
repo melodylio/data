@@ -1,0 +1,661 @@
+year,course,students,sex,background
+2021,Accountancy,2267,male,1
+2020,Accountancy,2359,male,1
+2019,Accountancy,2472,male,1
+2018,Accountancy,2486,male,1
+2017,Accountancy,2425,male,1
+2016,Accountancy,2181,male,1
+2015,Accountancy,2039,male,1
+2014,Accountancy,1912,male,1
+2013,Accountancy,1768,male,1
+2012,Accountancy,1685,male,1
+2011,Accountancy,1627,male,1
+2010,Accountancy,1321,male,1
+2009,Accountancy,1323,male,1
+2008,Accountancy,1229,male,1
+2007,Accountancy,1160,male,1
+2006,Accountancy,1087,male,1
+2005,Accountancy,829,male,1
+2004,Accountancy,697,male,1
+2003,Accountancy,672,male,1
+2002,Accountancy,711,male,1
+2001,Accountancy,712,male,1
+2000,Accountancy,715,male,1
+2021,Accountancy,2915,female,1
+2020,Accountancy,2932,female,1
+2019,Accountancy,2999,female,1
+2018,Accountancy,3140,female,1
+2017,Accountancy,3225,female,1
+2016,Accountancy,2909,female,1
+2015,Accountancy,2684,female,1
+2014,Accountancy,2456,female,1
+2013,Accountancy,2274,female,1
+2012,Accountancy,2316,female,1
+2011,Accountancy,2244,female,1
+2010,Accountancy,1882,female,1
+2009,Accountancy,1871,female,1
+2008,Accountancy,1910,female,1
+2007,Accountancy,1914,female,1
+2006,Accountancy,1845,female,1
+2005,Accountancy,1732,female,1
+2004,Accountancy,1698,female,1
+2003,Accountancy,1497,female,1
+2002,Accountancy,1498,female,1
+2001,Accountancy,1543,female,1
+2000,Accountancy,1567,female,1
+2021,Applied Arts,550,male,1
+2020,Applied Arts,622,male,1
+2019,Applied Arts,661,male,1
+2018,Applied Arts,698,male,1
+2017,Applied Arts,725,male,1
+2016,Applied Arts,670,male,1
+2015,Applied Arts,665,male,1
+2014,Applied Arts,641,male,1
+2013,Applied Arts,628,male,1
+2012,Applied Arts,586,male,1
+2011,Applied Arts,539,male,1
+2010,Applied Arts,469,male,1
+2009,Applied Arts,408,male,1
+2008,Applied Arts,342,male,1
+2007,Applied Arts,282,male,1
+2006,Applied Arts,223,male,1
+2005,Applied Arts,143,male,1
+2004,Applied Arts,100,male,1
+2003,Applied Arts,83,male,1
+2002,Applied Arts,48,male,1
+2001,Applied Arts,35,male,1
+2000,Applied Arts,22,male,1
+2021,Applied Arts,898,female,1
+2020,Applied Arts,949,female,1
+2019,Applied Arts,996,female,1
+2018,Applied Arts,1034,female,1
+2017,Applied Arts,1038,female,1
+2016,Applied Arts,958,female,1
+2015,Applied Arts,934,female,1
+2014,Applied Arts,937,female,1
+2013,Applied Arts,864,female,1
+2012,Applied Arts,761,female,1
+2011,Applied Arts,640,female,1
+2010,Applied Arts,607,female,1
+2009,Applied Arts,549,female,1
+2008,Applied Arts,503,female,1
+2007,Applied Arts,429,female,1
+2006,Applied Arts,334,female,1
+2005,Applied Arts,212,female,1
+2004,Applied Arts,126,female,1
+2003,Applied Arts,91,female,1
+2002,Applied Arts,49,female,1
+2001,Applied Arts,37,female,1
+2000,Applied Arts,26,female,1
+2021,"Architecture, Building & Real Estate",1427,male,1
+2020,"Architecture, Building & Real Estate",1417,male,1
+2019,"Architecture, Building & Real Estate",1377,male,1
+2018,"Architecture, Building & Real Estate",1388,male,1
+2017,"Architecture, Building & Real Estate",1403,male,1
+2016,"Architecture, Building & Real Estate",775,male,1
+2015,"Architecture, Building & Real Estate",784,male,1
+2014,"Architecture, Building & Real Estate",777,male,1
+2013,"Architecture, Building & Real Estate",760,male,1
+2012,"Architecture, Building & Real Estate",710,male,1
+2011,"Architecture, Building & Real Estate",694,male,1
+2010,"Architecture, Building & Real Estate",669,male,1
+2009,"Architecture, Building & Real Estate",639,male,1
+2008,"Architecture, Building & Real Estate",600,male,1
+2007,"Architecture, Building & Real Estate",579,male,1
+2006,"Architecture, Building & Real Estate",582,male,1
+2005,"Architecture, Building & Real Estate",609,male,1
+2004,"Architecture, Building & Real Estate",610,male,1
+2003,"Architecture, Building & Real Estate",593,male,1
+2002,"Architecture, Building & Real Estate",629,male,1
+2001,"Architecture, Building & Real Estate",608,male,1
+2000,"Architecture, Building & Real Estate",578,male,1
+2021,"Architecture, Building & Real Estate",1455,female,1
+2020,"Architecture, Building & Real Estate",1488,female,1
+2019,"Architecture, Building & Real Estate",1476,female,1
+2018,"Architecture, Building & Real Estate",1509,female,1
+2017,"Architecture, Building & Real Estate",1521,female,1
+2016,"Architecture, Building & Real Estate",1205,female,1
+2015,"Architecture, Building & Real Estate",1189,female,1
+2014,"Architecture, Building & Real Estate",1213,female,1
+2013,"Architecture, Building & Real Estate",1123,female,1
+2012,"Architecture, Building & Real Estate",1119,female,1
+2011,"Architecture, Building & Real Estate",1163,female,1
+2010,"Architecture, Building & Real Estate",1117,female,1
+2009,"Architecture, Building & Real Estate",1032,female,1
+2008,"Architecture, Building & Real Estate",973,female,1
+2007,"Architecture, Building & Real Estate",966,female,1
+2006,"Architecture, Building & Real Estate",877,female,1
+2005,"Architecture, Building & Real Estate",870,female,1
+2004,"Architecture, Building & Real Estate",926,female,1
+2003,"Architecture, Building & Real Estate",881,female,1
+2002,"Architecture, Building & Real Estate",883,female,1
+2001,"Architecture, Building & Real Estate",886,female,1
+2000,"Architecture, Building & Real Estate",847,female,1
+2021,Business & Administration,6856,male,1
+2020,Business & Administration,6340,male,1
+2019,Business & Administration,5793,male,1
+2018,Business & Administration,5430,male,1
+2017,Business & Administration,5212,male,1
+2016,Business & Administration,3284,male,1
+2015,Business & Administration,3111,male,1
+2014,Business & Administration,2980,male,1
+2013,Business & Administration,2782,male,1
+2012,Business & Administration,2705,male,1
+2011,Business & Administration,2543,male,1
+2010,Business & Administration,2688,male,1
+2009,Business & Administration,2529,male,1
+2008,Business & Administration,2425,male,1
+2007,Business & Administration,2312,male,1
+2006,Business & Administration,2141,male,1
+2005,Business & Administration,1914,male,1
+2004,Business & Administration,1597,male,1
+2003,Business & Administration,1406,male,1
+2002,Business & Administration,1227,male,1
+2001,Business & Administration,1130,male,1
+2000,Business & Administration,1159,male,1
+2021,Business & Administration,9117,female,1
+2020,Business & Administration,8434,female,1
+2019,Business & Administration,7587,female,1
+2018,Business & Administration,6971,female,1
+2017,Business & Administration,6389,female,1
+2016,Business & Administration,4230,female,1
+2015,Business & Administration,4027,female,1
+2014,Business & Administration,3597,female,1
+2013,Business & Administration,3406,female,1
+2012,Business & Administration,3368,female,1
+2011,Business & Administration,3237,female,1
+2010,Business & Administration,3738,female,1
+2009,Business & Administration,3457,female,1
+2008,Business & Administration,3423,female,1
+2007,Business & Administration,3363,female,1
+2006,Business & Administration,3271,female,1
+2005,Business & Administration,3098,female,1
+2004,Business & Administration,3024,female,1
+2003,Business & Administration,2865,female,1
+2002,Business & Administration,2738,female,1
+2001,Business & Administration,2632,female,1
+2000,Business & Administration,2593,female,1
+2021,Dentistry,79,male,1
+2020,Dentistry,88,male,1
+2019,Dentistry,91,male,1
+2018,Dentistry,89,male,1
+2017,Dentistry,76,male,1
+2016,Dentistry,75,male,1
+2015,Dentistry,85,male,1
+2014,Dentistry,84,male,1
+2013,Dentistry,83,male,1
+2012,Dentistry,81,male,1
+2011,Dentistry,79,male,1
+2010,Dentistry,76,male,1
+2009,Dentistry,77,male,1
+2008,Dentistry,70,male,1
+2007,Dentistry,65,male,1
+2006,Dentistry,70,male,1
+2005,Dentistry,72,male,1
+2004,Dentistry,80,male,1
+2003,Dentistry,78,male,1
+2002,Dentistry,80,male,1
+2001,Dentistry,85,male,1
+2000,Dentistry,83,male,1
+2021,Dentistry,199,female,1
+2020,Dentistry,165,female,1
+2019,Dentistry,141,female,1
+2018,Dentistry,135,female,1
+2017,Dentistry,141,female,1
+2016,Dentistry,145,female,1
+2015,Dentistry,134,female,1
+2014,Dentistry,132,female,1
+2013,Dentistry,124,female,1
+2012,Dentistry,120,female,1
+2011,Dentistry,111,female,1
+2010,Dentistry,108,female,1
+2009,Dentistry,103,female,1
+2008,Dentistry,93,female,1
+2007,Dentistry,89,female,1
+2006,Dentistry,78,female,1
+2005,Dentistry,67,female,1
+2004,Dentistry,61,female,1
+2003,Dentistry,60,female,1
+2002,Dentistry,56,female,1
+2001,Dentistry,52,female,1
+2000,Dentistry,56,female,1
+2021,Education,283,male,1
+2020,Education,260,male,1
+2019,Education,247,male,1
+2018,Education,230,male,1
+2017,Education,263,male,1
+2016,Education,169,male,1
+2015,Education,207,male,1
+2014,Education,258,male,1
+2013,Education,317,male,1
+2012,Education,420,male,1
+2011,Education,468,male,1
+2010,Education,465,male,1
+2009,Education,406,male,1
+2008,Education,301,male,1
+2007,Education,234,male,1
+2006,Education,212,male,1
+2005,Education,249,male,1
+2004,Education,286,male,1
+2003,Education,290,male,1
+2002,Education,261,male,1
+2001,Education,238,male,1
+2000,Education,211,male,1
+2021,Education,1277,female,1
+2020,Education,1327,female,1
+2019,Education,1292,female,1
+2018,Education,1260,female,1
+2017,Education,1320,female,1
+2016,Education,583,female,1
+2015,Education,771,female,1
+2014,Education,845,female,1
+2013,Education,1021,female,1
+2012,Education,1189,female,1
+2011,Education,1369,female,1
+2010,Education,1376,female,1
+2009,Education,1329,female,1
+2008,Education,1174,female,1
+2007,Education,791,female,1
+2006,Education,652,female,1
+2005,Education,695,female,1
+2004,Education,812,female,1
+2003,Education,884,female,1
+2002,Education,846,female,1
+2001,Education,724,female,1
+2000,Education,616,female,1
+2021,Engineering Sciences,15174,male,1
+2020,Engineering Sciences,14977,male,1
+2019,Engineering Sciences,15128,male,1
+2018,Engineering Sciences,14930,male,1
+2017,Engineering Sciences,14631,male,1
+2016,Engineering Sciences,13314,male,1
+2015,Engineering Sciences,12971,male,1
+2014,Engineering Sciences,12895,male,1
+2013,Engineering Sciences,12687,male,1
+2012,Engineering Sciences,12732,male,1
+2011,Engineering Sciences,12362,male,1
+2010,Engineering Sciences,12326,male,1
+2009,Engineering Sciences,12461,male,1
+2008,Engineering Sciences,12447,male,1
+2007,Engineering Sciences,12872,male,1
+2006,Engineering Sciences,13359,male,1
+2005,Engineering Sciences,13176,male,1
+2004,Engineering Sciences,13018,male,1
+2003,Engineering Sciences,12811,male,1
+2002,Engineering Sciences,12649,male,1
+2001,Engineering Sciences,12345,male,1
+2000,Engineering Sciences,11861,male,1
+2021,Engineering Sciences,5967,female,1
+2020,Engineering Sciences,5881,female,1
+2019,Engineering Sciences,5912,female,1
+2018,Engineering Sciences,5721,female,1
+2017,Engineering Sciences,5508,female,1
+2016,Engineering Sciences,5342,female,1
+2015,Engineering Sciences,5460,female,1
+2014,Engineering Sciences,5543,female,1
+2013,Engineering Sciences,5386,female,1
+2012,Engineering Sciences,5275,female,1
+2011,Engineering Sciences,5064,female,1
+2010,Engineering Sciences,4968,female,1
+2009,Engineering Sciences,4862,female,1
+2008,Engineering Sciences,4743,female,1
+2007,Engineering Sciences,5021,female,1
+2006,Engineering Sciences,5122,female,1
+2005,Engineering Sciences,5286,female,1
+2004,Engineering Sciences,5319,female,1
+2003,Engineering Sciences,5068,female,1
+2002,Engineering Sciences,5008,female,1
+2001,Engineering Sciences,4669,female,1
+2000,Engineering Sciences,4168,female,1
+2021,Health Sciences,1022,male,1
+2020,Health Sciences,922,male,1
+2019,Health Sciences,872,male,1
+2018,Health Sciences,760,male,1
+2017,Health Sciences,633,male,1
+2016,Health Sciences,525,male,1
+2015,Health Sciences,441,male,1
+2014,Health Sciences,422,male,1
+2013,Health Sciences,387,male,1
+2012,Health Sciences,345,male,1
+2011,Health Sciences,319,male,1
+2010,Health Sciences,281,male,1
+2009,Health Sciences,242,male,1
+2008,Health Sciences,176,male,1
+2007,Health Sciences,128,male,1
+2006,Health Sciences,94,male,1
+2005,Health Sciences,81,male,1
+2004,Health Sciences,70,male,1
+2003,Health Sciences,71,male,1
+2002,Health Sciences,68,male,1
+2001,Health Sciences,65,male,1
+2000,Health Sciences,66,male,1
+2021,Health Sciences,2874,female,1
+2020,Health Sciences,2570,female,1
+2019,Health Sciences,2323,female,1
+2018,Health Sciences,1952,female,1
+2017,Health Sciences,1611,female,1
+2016,Health Sciences,1335,female,1
+2015,Health Sciences,1126,female,1
+2014,Health Sciences,1076,female,1
+2013,Health Sciences,1054,female,1
+2012,Health Sciences,948,female,1
+2011,Health Sciences,820,female,1
+2010,Health Sciences,783,female,1
+2009,Health Sciences,800,female,1
+2008,Health Sciences,711,female,1
+2007,Health Sciences,617,female,1
+2006,Health Sciences,489,female,1
+2005,Health Sciences,352,female,1
+2004,Health Sciences,277,female,1
+2003,Health Sciences,273,female,1
+2002,Health Sciences,257,female,1
+2001,Health Sciences,249,female,1
+2000,Health Sciences,223,female,1
+2021,Humanities & Social Sciences,5158,male,1
+2020,Humanities & Social Sciences,5231,male,1
+2019,Humanities & Social Sciences,5242,male,1
+2018,Humanities & Social Sciences,5227,male,1
+2017,Humanities & Social Sciences,5155,male,1
+2016,Humanities & Social Sciences,4046,male,1
+2015,Humanities & Social Sciences,3861,male,1
+2014,Humanities & Social Sciences,3756,male,1
+2013,Humanities & Social Sciences,3550,male,1
+2012,Humanities & Social Sciences,3327,male,1
+2011,Humanities & Social Sciences,3242,male,1
+2010,Humanities & Social Sciences,3121,male,1
+2009,Humanities & Social Sciences,2993,male,1
+2008,Humanities & Social Sciences,2701,male,1
+2007,Humanities & Social Sciences,2388,male,1
+2006,Humanities & Social Sciences,2135,male,1
+2005,Humanities & Social Sciences,1823,male,1
+2004,Humanities & Social Sciences,1599,male,1
+2003,Humanities & Social Sciences,1501,male,1
+2002,Humanities & Social Sciences,1478,male,1
+2001,Humanities & Social Sciences,1506,male,1
+2000,Humanities & Social Sciences,1477,male,1
+2021,Humanities & Social Sciences,10697,female,1
+2020,Humanities & Social Sciences,10824,female,1
+2019,Humanities & Social Sciences,10937,female,1
+2018,Humanities & Social Sciences,10789,female,1
+2017,Humanities & Social Sciences,10603,female,1
+2016,Humanities & Social Sciences,8449,female,1
+2015,Humanities & Social Sciences,8054,female,1
+2014,Humanities & Social Sciences,7535,female,1
+2013,Humanities & Social Sciences,7095,female,1
+2012,Humanities & Social Sciences,6760,female,1
+2011,Humanities & Social Sciences,6447,female,1
+2010,Humanities & Social Sciences,6573,female,1
+2009,Humanities & Social Sciences,6463,female,1
+2008,Humanities & Social Sciences,6058,female,1
+2007,Humanities & Social Sciences,5697,female,1
+2006,Humanities & Social Sciences,4887,female,1
+2005,Humanities & Social Sciences,4331,female,1
+2004,Humanities & Social Sciences,3860,female,1
+2003,Humanities & Social Sciences,3735,female,1
+2002,Humanities & Social Sciences,3792,female,1
+2001,Humanities & Social Sciences,3911,female,1
+2000,Humanities & Social Sciences,3966,female,1
+2021,Information Technology,8433,male,1
+2020,Information Technology,7019,male,1
+2019,Information Technology,5750,male,1
+2018,Information Technology,4907,male,1
+2017,Information Technology,4474,male,1
+2016,Information Technology,3352,male,1
+2015,Information Technology,3071,male,1
+2014,Information Technology,2809,male,1
+2013,Information Technology,2737,male,1
+2012,Information Technology,2617,male,1
+2011,Information Technology,2465,male,1
+2010,Information Technology,2178,male,1
+2009,Information Technology,1966,male,1
+2008,Information Technology,1775,male,1
+2007,Information Technology,1570,male,1
+2006,Information Technology,1429,male,1
+2005,Information Technology,1278,male,1
+2004,Information Technology,1206,male,1
+2003,Information Technology,1230,male,1
+2002,Information Technology,1283,male,1
+2001,Information Technology,1319,male,1
+2000,Information Technology,1236,male,1
+2021,Information Technology,3501,female,1
+2020,Information Technology,3170,female,1
+2019,Information Technology,2638,female,1
+2018,Information Technology,2143,female,1
+2017,Information Technology,1851,female,1
+2016,Information Technology,1513,female,1
+2015,Information Technology,1504,female,1
+2014,Information Technology,1343,female,1
+2013,Information Technology,1321,female,1
+2012,Information Technology,1236,female,1
+2011,Information Technology,1178,female,1
+2010,Information Technology,1029,female,1
+2009,Information Technology,920,female,1
+2008,Information Technology,804,female,1
+2007,Information Technology,768,female,1
+2006,Information Technology,743,female,1
+2005,Information Technology,722,female,1
+2004,Information Technology,651,female,1
+2003,Information Technology,686,female,1
+2002,Information Technology,785,female,1
+2001,Information Technology,804,female,1
+2000,Information Technology,688,female,1
+2021,Law,966,male,1
+2020,Law,916,male,1
+2019,Law,912,male,1
+2018,Law,890,male,1
+2017,Law,879,male,1
+2016,Law,853,male,1
+2015,Law,844,male,1
+2014,Law,799,male,1
+2013,Law,755,male,1
+2012,Law,757,male,1
+2011,Law,706,male,1
+2010,Law,640,male,1
+2009,Law,610,male,1
+2008,Law,494,male,1
+2007,Law,457,male,1
+2006,Law,409,male,1
+2005,Law,345,male,1
+2004,Law,314,male,1
+2003,Law,273,male,1
+2002,Law,245,male,1
+2001,Law,251,male,1
+2000,Law,248,male,1
+2021,Law,909,female,1
+2020,Law,907,female,1
+2019,Law,862,female,1
+2018,Law,818,female,1
+2017,Law,767,female,1
+2016,Law,740,female,1
+2015,Law,706,female,1
+2014,Law,715,female,1
+2013,Law,736,female,1
+2012,Law,717,female,1
+2011,Law,742,female,1
+2010,Law,783,female,1
+2009,Law,711,female,1
+2008,Law,649,female,1
+2007,Law,547,female,1
+2006,Law,463,female,1
+2005,Law,499,female,1
+2004,Law,502,female,1
+2003,Law,479,female,1
+2002,Law,435,female,1
+2001,Law,378,female,1
+2000,Law,350,female,1
+2021,Mass Communication & Information Science,328,male,1
+2020,Mass Communication & Information Science,363,male,1
+2019,Mass Communication & Information Science,389,male,1
+2018,Mass Communication & Information Science,414,male,1
+2017,Mass Communication & Information Science,411,male,1
+2016,Mass Communication & Information Science,178,male,1
+2015,Mass Communication & Information Science,174,male,1
+2014,Mass Communication & Information Science,174,male,1
+2013,Mass Communication & Information Science,173,male,1
+2012,Mass Communication & Information Science,184,male,1
+2011,Mass Communication & Information Science,183,male,1
+2010,Mass Communication & Information Science,185,male,1
+2009,Mass Communication & Information Science,176,male,1
+2008,Mass Communication & Information Science,145,male,1
+2007,Mass Communication & Information Science,147,male,1
+2006,Mass Communication & Information Science,130,male,1
+2005,Mass Communication & Information Science,137,male,1
+2004,Mass Communication & Information Science,132,male,1
+2003,Mass Communication & Information Science,134,male,1
+2002,Mass Communication & Information Science,137,male,1
+2001,Mass Communication & Information Science,134,male,1
+2000,Mass Communication & Information Science,136,male,1
+2021,Mass Communication & Information Science,963,female,1
+2020,Mass Communication & Information Science,937,female,1
+2019,Mass Communication & Information Science,936,female,1
+2018,Mass Communication & Information Science,973,female,1
+2017,Mass Communication & Information Science,958,female,1
+2016,Mass Communication & Information Science,596,female,1
+2015,Mass Communication & Information Science,602,female,1
+2014,Mass Communication & Information Science,555,female,1
+2013,Mass Communication & Information Science,529,female,1
+2012,Mass Communication & Information Science,494,female,1
+2011,Mass Communication & Information Science,490,female,1
+2010,Mass Communication & Information Science,490,female,1
+2009,Mass Communication & Information Science,516,female,1
+2008,Mass Communication & Information Science,543,female,1
+2007,Mass Communication & Information Science,546,female,1
+2006,Mass Communication & Information Science,555,female,1
+2005,Mass Communication & Information Science,507,female,1
+2004,Mass Communication & Information Science,490,female,1
+2003,Mass Communication & Information Science,474,female,1
+2002,Mass Communication & Information Science,413,female,1
+2001,Mass Communication & Information Science,399,female,1
+2000,Mass Communication & Information Science,361,female,1
+2021,Medicine,1199,male,1
+2020,Medicine,1158,male,1
+2019,Medicine,1117,male,1
+2018,Medicine,1079,male,1
+2017,Medicine,1016,male,1
+2016,Medicine,933,male,1
+2015,Medicine,860,male,1
+2014,Medicine,784,male,1
+2013,Medicine,725,male,1
+2012,Medicine,695,male,1
+2011,Medicine,681,male,1
+2010,Medicine,685,male,1
+2009,Medicine,682,male,1
+2008,Medicine,670,male,1
+2007,Medicine,671,male,1
+2006,Medicine,685,male,1
+2005,Medicine,690,male,1
+2004,Medicine,684,male,1
+2003,Medicine,673,male,1
+2002,Medicine,671,male,1
+2001,Medicine,650,male,1
+2000,Medicine,611,male,1
+2021,Medicine,1052,female,1
+2020,Medicine,1020,female,1
+2019,Medicine,978,female,1
+2018,Medicine,966,female,1
+2017,Medicine,946,female,1
+2016,Medicine,912,female,1
+2015,Medicine,859,female,1
+2014,Medicine,801,female,1
+2013,Medicine,744,female,1
+2012,Medicine,679,female,1
+2011,Medicine,647,female,1
+2010,Medicine,620,female,1
+2009,Medicine,596,female,1
+2008,Medicine,567,female,1
+2007,Medicine,536,female,1
+2006,Medicine,503,female,1
+2005,Medicine,479,female,1
+2004,Medicine,461,female,1
+2003,Medicine,441,female,1
+2002,Medicine,410,female,1
+2001,Medicine,386,female,1
+2000,Medicine,336,female,1
+2021,Natural & Mathematical Sciences,3263,male,1
+2020,Natural & Mathematical Sciences,3189,male,1
+2019,Natural & Mathematical Sciences,3234,male,1
+2018,Natural & Mathematical Sciences,3329,male,1
+2017,Natural & Mathematical Sciences,3395,male,1
+2016,Natural & Mathematical Sciences,3300,male,1
+2015,Natural & Mathematical Sciences,3237,male,1
+2014,Natural & Mathematical Sciences,3223,male,1
+2013,Natural & Mathematical Sciences,3140,male,1
+2012,Natural & Mathematical Sciences,3258,male,1
+2011,Natural & Mathematical Sciences,3340,male,1
+2010,Natural & Mathematical Sciences,3159,male,1
+2009,Natural & Mathematical Sciences,2917,male,1
+2008,Natural & Mathematical Sciences,2592,male,1
+2007,Natural & Mathematical Sciences,2243,male,1
+2006,Natural & Mathematical Sciences,2041,male,1
+2005,Natural & Mathematical Sciences,1846,male,1
+2004,Natural & Mathematical Sciences,1531,male,1
+2003,Natural & Mathematical Sciences,1460,male,1
+2002,Natural & Mathematical Sciences,1409,male,1
+2001,Natural & Mathematical Sciences,1276,male,1
+2000,Natural & Mathematical Sciences,1153,male,1
+2021,Natural & Mathematical Sciences,3985,female,1
+2020,Natural & Mathematical Sciences,3685,female,1
+2019,Natural & Mathematical Sciences,3981,female,1
+2018,Natural & Mathematical Sciences,4231,female,1
+2017,Natural & Mathematical Sciences,4646,female,1
+2016,Natural & Mathematical Sciences,4967,female,1
+2015,Natural & Mathematical Sciences,4989,female,1
+2014,Natural & Mathematical Sciences,4922,female,1
+2013,Natural & Mathematical Sciences,4715,female,1
+2012,Natural & Mathematical Sciences,4625,female,1
+2011,Natural & Mathematical Sciences,4482,female,1
+2010,Natural & Mathematical Sciences,4481,female,1
+2009,Natural & Mathematical Sciences,4457,female,1
+2008,Natural & Mathematical Sciences,4227,female,1
+2007,Natural & Mathematical Sciences,3925,female,1
+2006,Natural & Mathematical Sciences,3513,female,1
+2005,Natural & Mathematical Sciences,3203,female,1
+2004,Natural & Mathematical Sciences,3002,female,1
+2003,Natural & Mathematical Sciences,2976,female,1
+2002,Natural & Mathematical Sciences,2674,female,1
+2001,Natural & Mathematical Sciences,2547,female,1
+2000,Natural & Mathematical Sciences,2295,female,1
+2021,Services,749,male,1
+2020,Services,727,male,1
+2019,Services,684,male,1
+2018,Services,671,male,1
+2017,Services,654,male,1
+2016,Services,355,male,1
+2015,Services,352,male,1
+2014,Services,286,male,1
+2013,Services,371,male,1
+2012,Services,345,male,1
+2011,Services,252,male,1
+2010,Services,112,male,1
+2009,Services,103,male,1
+2008,Services,96,male,1
+2007,Services,83,male,1
+2006,Services,60,male,1
+2005,Services,28,male,1
+2004,Services,10,male,1
+2003,Services,0,male,1
+2002,Services,0,male,1
+2001,Services,0,male,1
+2000,Services,0,male,1
+2021,Services,522,female,1
+2020,Services,489,female,1
+2019,Services,464,female,1
+2018,Services,456,female,1
+2017,Services,440,female,1
+2016,Services,382,female,1
+2015,Services,373,female,1
+2014,Services,393,female,1
+2013,Services,551,female,1
+2012,Services,702,female,1
+2011,Services,575,female,1
+2010,Services,187,female,1
+2009,Services,160,female,1
+2008,Services,157,female,1
+2007,Services,163,female,1
+2006,Services,117,female,1
+2005,Services,80,female,1
+2004,Services,43,female,1
+2003,Services,0,female,1
+2002,Services,0,female,1
+2001,Services,0,female,1
+2000,Services,0,female,1
