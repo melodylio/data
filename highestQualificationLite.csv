@@ -1,0 +1,221 @@
+year,number,qualification,sex
+2021,281200,Below Secondary,male
+2020,324400,Below Secondary,male
+2019,319200,Below Secondary,male
+2018,320000,Below Secondary,male
+2017,349000,Below Secondary,male
+2016,349400,Below Secondary,male
+2015,345100,Below Secondary,male
+2014,363400,Below Secondary,male
+2013,360600,Below Secondary,male
+2012,368000,Below Secondary,male
+2011,378900,Below Secondary,male
+2010,388600,Below Secondary,male
+2009,409700,Below Secondary,male
+2008,401400,Below Secondary,male
+2007,448900,Below Secondary,male
+2006,449800,Below Secondary,male
+2005,413300,Below Secondary,male
+2004,453500,Below Secondary,male
+2003,461600,Below Secondary,male
+2002,457600,Below Secondary,male
+2001,451200,Below Secondary,male
+2000,422300,Below Secondary,male
+2021,211200,Secondary,male
+2020,215000,Secondary,male
+2019,220900,Secondary,male
+2018,225500,Secondary,male
+2017,216900,Secondary,male
+2016,218600,Secondary,male
+2015,227400,Secondary,male
+2014,217000,Secondary,male
+2013,220700,Secondary,male
+2012,217900,Secondary,male
+2011,225900,Secondary,male
+2010,222400,Secondary,male
+2009,261700,Secondary,male
+2008,248200,Secondary,male
+2007,237700,Secondary,male
+2006,238200,Secondary,male
+2005,230900,Secondary,male
+2004,232400,Secondary,male
+2003,234400,Secondary,male
+2002,240800,Secondary,male
+2001,235400,Secondary,male
+2000,240900,Secondary,male
+2021,151300,Post Secondary (Non-Tertiary),male
+2020,158100,Post Secondary (Non-Tertiary),male
+2019,143600,Post Secondary (Non-Tertiary),male
+2018,143100,Post Secondary (Non-Tertiary),male
+2017,135400,Post Secondary (Non-Tertiary),male
+2016,139300,Post Secondary (Non-Tertiary),male
+2015,137300,Post Secondary (Non-Tertiary),male
+2014,130200,Post Secondary (Non-Tertiary),male
+2013,127700,Post Secondary (Non-Tertiary),male
+2012,132100,Post Secondary (Non-Tertiary),male
+2011,127500,Post Secondary (Non-Tertiary),male
+2010,132200,Post Secondary (Non-Tertiary),male
+2009,71400,Post Secondary (Non-Tertiary),male
+2008,87600,Post Secondary (Non-Tertiary),male
+2007,79300,Post Secondary (Non-Tertiary),male
+2006,78100,Post Secondary (Non-Tertiary),male
+2005,107900,Post Secondary (Non-Tertiary),male
+2004,72800,Post Secondary (Non-Tertiary),male
+2003,73800,Post Secondary (Non-Tertiary),male
+2002,74900,Post Secondary (Non-Tertiary),male
+2001,71700,Post Secondary (Non-Tertiary),male
+2000,93600,Post Secondary (Non-Tertiary),male
+2021,247100,Diploma & Professional Qualification,male
+2020,230000,Diploma & Professional Qualification,male
+2019,235500,Diploma & Professional Qualification,male
+2018,219500,Diploma & Professional Qualification,male
+2017,208500,Diploma & Professional Qualification,male
+2016,211800,Diploma & Professional Qualification,male
+2015,205300,Diploma & Professional Qualification,male
+2014,203600,Diploma & Professional Qualification,male
+2013,189200,Diploma & Professional Qualification,male
+2012,187400,Diploma & Professional Qualification,male
+2011,186100,Diploma & Professional Qualification,male
+2010,177300,Diploma & Professional Qualification,male
+2009,165800,Diploma & Professional Qualification,male
+2008,154500,Diploma & Professional Qualification,male
+2007,147200,Diploma & Professional Qualification,male
+2006,138700,Diploma & Professional Qualification,male
+2005,141400,Diploma & Professional Qualification,male
+2004,124300,Diploma & Professional Qualification,male
+2003,117200,Diploma & Professional Qualification,male
+2002,110500,Diploma & Professional Qualification,male
+2001,105200,Diploma & Professional Qualification,male
+2000,111100,Diploma & Professional Qualification,male
+2021,540100,University,male
+2020,485400,University,male
+2019,475700,University,male
+2018,468400,University,male
+2017,453400,University,male
+2016,415500,University,male
+2015,401000,University,male
+2014,395700,University,male
+2013,379700,University,male
+2012,353700,University,male
+2011,331300,University,male
+2010,321900,University,male
+2009,302400,University,male
+2008,285900,University,male
+2007,265700,University,male
+2006,259300,University,male
+2005,224200,University,male
+2004,224000,University,male
+2003,209100,University,male
+2002,183500,University,male
+2001,167700,University,male
+2000,144800,University,male
+2021,362700,Below Secondary,female
+2020,433400,Below Secondary,female
+2019,426500,Below Secondary,female
+2018,441500,Below Secondary,female
+2017,464700,Below Secondary,female
+2016,469900,Below Secondary,female
+2015,454900,Below Secondary,female
+2014,468700,Below Secondary,female
+2013,472700,Below Secondary,female
+2012,480100,Below Secondary,female
+2011,491000,Below Secondary,female
+2010,499600,Below Secondary,female
+2009,518900,Below Secondary,female
+2008,497600,Below Secondary,female
+2007,538700,Below Secondary,female
+2006,543900,Below Secondary,female
+2005,524400,Below Secondary,female
+2004,551400,Below Secondary,female
+2003,554300,Below Secondary,female
+2002,547300,Below Secondary,female
+2001,545900,Below Secondary,female
+2000,517300,Below Secondary,female
+2021,281300,Secondary,female
+2020,269300,Secondary,female
+2019,282800,Secondary,female
+2018,285600,Secondary,female
+2017,271900,Secondary,female
+2016,281800,Secondary,female
+2015,291800,Secondary,female
+2014,285500,Secondary,female
+2013,280600,Secondary,female
+2012,281900,Secondary,female
+2011,285100,Secondary,female
+2010,268300,Secondary,female
+2009,304800,Secondary,female
+2008,307700,Secondary,female
+2007,297800,Secondary,female
+2006,291600,Secondary,female
+2005,256800,Secondary,female
+2004,270900,Secondary,female
+2003,281900,Secondary,female
+2002,287500,Secondary,female
+2001,276300,Secondary,female
+2000,255900,Secondary,female
+2021,130000,Post Secondary (Non-Tertiary),female
+2020,138800,Post Secondary (Non-Tertiary),female
+2019,122400,Post Secondary (Non-Tertiary),female
+2018,117600,Post Secondary (Non-Tertiary),female
+2017,118200,Post Secondary (Non-Tertiary),female
+2016,110600,Post Secondary (Non-Tertiary),female
+2015,113200,Post Secondary (Non-Tertiary),female
+2014,107800,Post Secondary (Non-Tertiary),female
+2013,104700,Post Secondary (Non-Tertiary),female
+2012,107300,Post Secondary (Non-Tertiary),female
+2011,102900,Post Secondary (Non-Tertiary),female
+2010,112600,Post Secondary (Non-Tertiary),female
+2009,72800,Post Secondary (Non-Tertiary),female
+2008,71600,Post Secondary (Non-Tertiary),female
+2007,75300,Post Secondary (Non-Tertiary),female
+2006,74000,Post Secondary (Non-Tertiary),female
+2005,102800,Post Secondary (Non-Tertiary),female
+2004,73400,Post Secondary (Non-Tertiary),female
+2003,72800,Post Secondary (Non-Tertiary),female
+2002,70600,Post Secondary (Non-Tertiary),female
+2001,67700,Post Secondary (Non-Tertiary),female
+2000,91800,Post Secondary (Non-Tertiary),female
+2021,239000,Diploma & Professional Qualification,female
+2020,226700,Diploma & Professional Qualification,female
+2019,225700,Diploma & Professional Qualification,female
+2018,215400,Diploma & Professional Qualification,female
+2017,207300,Diploma & Professional Qualification,female
+2016,199700,Diploma & Professional Qualification,female
+2015,200200,Diploma & Professional Qualification,female
+2014,198200,Diploma & Professional Qualification,female
+2013,183400,Diploma & Professional Qualification,female
+2012,177300,Diploma & Professional Qualification,female
+2011,166100,Diploma & Professional Qualification,female
+2010,165100,Diploma & Professional Qualification,female
+2009,149100,Diploma & Professional Qualification,female
+2008,140500,Diploma & Professional Qualification,female
+2007,131500,Diploma & Professional Qualification,female
+2006,122400,Diploma & Professional Qualification,female
+2005,126400,Diploma & Professional Qualification,female
+2004,106900,Diploma & Professional Qualification,female
+2003,99300,Diploma & Professional Qualification,female
+2002,86100,Diploma & Professional Qualification,female
+2001,84500,Diploma & Professional Qualification,female
+2000,91200,Diploma & Professional Qualification,female
+2021,534200,University,female
+2020,496600,University,female
+2019,470500,University,female
+2018,440400,University,female
+2017,420500,University,female
+2016,398700,University,female
+2015,374800,University,female
+2014,362400,University,female
+2013,350000,University,female
+2012,320700,University,female
+2011,307300,University,female
+2010,288100,University,female
+2009,266400,University,female
+2008,246300,University,female
+2007,226300,University,female
+2006,212700,University,female
+2005,180500,University,female
+2004,172800,University,female
+2003,158600,University,female
+2002,140000,University,female
+2001,121200,University,female
+2000,105100,University,female
